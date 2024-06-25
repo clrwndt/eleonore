@@ -4,7 +4,7 @@
 Diese Visualisierung beschäftigt sich mit der spanischen Kleidung als politisches Instrument und stellt dabei zwei Personen und ihre Leben vergleichend gegenüber.
 
 Scroll along to find out  
-[personen](#personen), [herkunft](#herkunft), [how](#how) & [who](#who).  
+[Personen](#personen), [Herkunft](#herkunft), [how](#how) & [who](#who).  
 
 
 ---
@@ -76,7 +76,7 @@ The template is in use to document the following [Interface Design](https://inte
 ---
 
 
-## How
+## Spanische Kleidung
 
 The *Syllabus Site* template can be easily used with minimal technical requirements.
 
@@ -133,7 +133,7 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 ---
 
 
-## Who
+## Eheleben
 
 *Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
 
