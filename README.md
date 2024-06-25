@@ -1,6 +1,6 @@
 # Eleonore
 
-This is an experiment in documenting design courses and a template for rendering Markdown files as one-page websites.
+Diese Visualisierung beschäftigt sich mit der spanischen Kleidung als politisches Instrument und stellt dabei zwei Personen un dihre Leben vergleichend gegenüber.
 
 
 Design is all about process, yet we tend to focus on results when documenting design courses. This is an attempt to shift the focus from the latter to the former.
