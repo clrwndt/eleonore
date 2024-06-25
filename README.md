@@ -14,6 +14,8 @@ Scroll along to find out
 
 //Beschreibung/Vorstellung der beiden Eleonoras
 
+<img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
+
 
 ### Eleonora di Toledo
 
