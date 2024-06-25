@@ -1,6 +1,6 @@
 # Eleonore
 
-Diese Visualisierung beschäftigt sich mit der spanischen Kleidung als politisches Instrument und stellt dabei zwei Personen un dihre Leben vergleichend gegenüber.
+Diese Visualisierung beschäftigt sich mit der spanischen Kleidung als politisches Instrument und stellt dabei zwei Personen und ihre Leben vergleichend gegenüber.
 
 Scroll along to find out  
 [why](#why), [what](#what), [how](#how) & [who](#who).  
