@@ -140,6 +140,13 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 ---
 
 
+## Details
+
+
+
+---
+
+
 ## Eheleben
 
 *Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
