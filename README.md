@@ -1,5 +1,4 @@
 
-
 # Eleonore
 
 //Einleitung/Fragestellung 
@@ -146,15 +145,14 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 <img src='img/gesicht.png' class='noresize'>
 
 
-<img src='img/haare.png' class='noresize'>
-
-
 <img src='img/haarschmuck.png' class='noresize'>
 
 Haarschmuck mit Brosche 
 
 
 <img src='img/kette.png' class='noresize'>
+
+Kette aus Perlen und Edelsteinen
 
 
 <img src='img/schmucksteine.png' class='noresize'>
