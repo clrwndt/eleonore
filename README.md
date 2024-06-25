@@ -151,6 +151,8 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 
 <img src='img/haarschmuck.png' class='noresize'>
 
+Haarschmuck mit Brosche 
+
 
 <img src='img/kette.png' class='noresize'>
 
