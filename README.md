@@ -142,7 +142,37 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 
 ## Details
 
+<img src='img/gesicht.png' class='noresize'>
 
+
+<img src='img/haare.png' class='noresize'>
+
+
+<img src='img/haarschmuck.png' class='noresize'>
+
+
+<img src='img/kette.png' class='noresize'>
+
+
+<img src='img/schmucksteine.png' class='noresize'>
+
+
+<img src='img/ärmel.png' class='noresize'>
+
+
+<img src='img/ärmel2.png' class='noresize'>
+
+
+<img src='img/manschette.png' class='noresize'>
+
+
+<img src='img/brief.png' class='noresize'>
+
+
+<img src='img/ringe.png' class='noresize'>
+
+
+<img src='img/hintergrund.png' class='noresize'>
 
 ---
 
