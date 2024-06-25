@@ -7,6 +7,12 @@ Scroll along to find out
 [Personen](#personen), [Herkunft](#herkunft), [Spanische Kleidung](#spanischekleidung) & [Eheleben](#eheleben).  
 
 
+<img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
+
+
+<img src='img/eleonoredautriche.jpg' class='noresize'>
+
+
 ---
 
 
