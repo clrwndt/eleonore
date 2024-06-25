@@ -4,7 +4,7 @@
 Diese Visualisierung beschäftigt sich mit der spanischen Kleidung als politisches Instrument und stellt dabei zwei Personen und ihre Leben vergleichend gegenüber.
 
 Scroll along to find out  
-[Personen](#personen), [Herkunft](#herkunft), [Spanische Kleidung](#spanische kleidung) & [Eheleben](#eheleben).  
+[Personen](#personen), [Herkunft](#herkunft), [Spanische Kleidung](#spanischekleidung) & [Eheleben](#eheleben).  
 
 
 ---
