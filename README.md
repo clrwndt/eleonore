@@ -49,6 +49,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <img src='img/karl.png' class='noresize'>
 
+
+<img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
+
 ---
 
 
