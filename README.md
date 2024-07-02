@@ -5,7 +5,7 @@
 Diese Visualisierung beschäftigt sich mit der spanischen Kleidung als politisches Instrument und stellt dabei zwei Personen und ihre Leben vergleichend gegenüber.
 
 Scroll along to find out  
-[Personen](#personen), [Herkunft](#herkunft), [Spanische Kleidung](#spanischekleidung) & [Eheleben](#eheleben).  
+[Herkunft](#herkunft), [Karl V.](#karlv.), [Heirat](#heirat), [Ehemänner](#ehemänner), [Eheleben](#eheleben), [Spanische Kleidung](#spanischekleidung) & [Eheleben](#eheleben).  
 
 
 <img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
@@ -39,17 +39,15 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ---
 
 
-## Herkunft
+## Karl V.
 
-//Beschreibung/Vorstellung Herkunft der beiden Eleonoras
-
-
-### Eleonora di Toledo
-<img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
+//Beschreibung/Vorstellung Karl V.
 
 
-### Eléonore d’Autriche
-<img src='img/eleonoredautriche.jpg' class='noresize'>
+<img src='img/textkarl.png' class='noresize'>
+
+
+<img src='img/karl.png' class='noresize'>
 
 ---
 
