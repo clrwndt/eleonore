@@ -17,7 +17,7 @@ Scroll along to find out
 ---
 
 
-## Personen 
+## Herkunft 
 
 //Beschreibung/Vorstellung der beiden Eleonoras
 
@@ -41,42 +41,30 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Herkunft
 
-//Beschreibung/Vorstellung der Herkunft der beiden Eleonoras
+//Beschreibung/Vorstellung Herkunft der beiden Eleonoras
 
 
-### Design
-
-The webpage is designed with the aim to open an evocative information space, where the sources that foster creativity, dialogue, and learning can be gathered, recapitulated, and appreciated. The monolithic structure of conventional documents is broken up, by introducing a relational quality to the connections between sections and items.
-
-
-### Structure
-
-There are two main types of elements:
-
-- **Sections** – Larger blocks gather the material for weekly course sessions.
-- **Items** – Smaller elements feature images, text, and other content.
-
-Each item is connected with its section by a thin line. The navigation (≡) gives access to all sections.
-
-The last section acts as the footer, where the typical array of logos and links belongs.
+### Eleonora di Toledo
+<img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
 
 
-### Examples
+### Eléonore d’Autriche
+<img src='img/eleonoredautriche.jpg' class='noresize'>
 
-The template is in use to document the following [Interface Design](https://interface.fh-potsdam.de) courses offered at [FH Potsdam](https://www.fh-potsdam.de/):
-
-- **[Decolonizing Data Visualization – Visualizing Postcolonies](https://infovis.fh-potsdam.de/decolonizing/)** (Summer 2022)
-- **[Organigrams for/from the future](https://infovis.fh-potsdam.de/organigrams/)** (Summer 2023)
+---
 
 
-<img src='img/decolonizing.webp' class='noresize'>
+## Ehemänner
 
-[Decolonizing Data Visualization – Visualizing Postcolonies](https://infovis.fh-potsdam.de/decolonizing/)
+//Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
 
 
-<img src='img/organigrams.webp' class='noresize'>
+<img src='img/koenigfranz.png' class='noresize'>
 
-[Organigrams for/from the future](https://infovis.fh-potsdam.de/organigrams/)
+
+<img src='img/cosimo.png' class='noresize'>
+
+
 
 
 ---
