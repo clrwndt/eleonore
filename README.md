@@ -6,7 +6,7 @@ Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Fr
 
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile erfolgt systematisch anhand mehrerer Kategorien:
 
-[Herkunft](#herkunft), [Karl V.](#karlv.), [Heirat](#heirat), [Ehemänner](#ehemänner), [Eheleben](#eheleben), [Spanische Kleidung](#spanischekleidung) & [Eheleben](#eheleben).  
+[Herkunft](#herkunft), [Karl V.](#karlv.), [Heirat](#heirat), [Ehemänner](#ehemänner), [Eheleben](#eheleben), [Spanische Kleidung](#spanischekleidung) ..  
 
 
 <img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
@@ -70,12 +70,23 @@ Herrschaftsgebiet Karl V.
 <img src='img/cosimo.png' class='noresize'>
 
 
+---
+
+## Spanische Kleidung
+
+//Beschreibung/Vorstellung der Spanischen Kleidung der beiden Eleonoras
+
+
+<img src='img/koenigfranz.png' class='noresize'>
+
+
+<img src='img/cosimo.png' class='noresize'>
 
 
 ---
 
 
-## Spanische Kleidung
+## xxx
 
 The *Syllabus Site* template can be easily used with minimal technical requirements.
 
