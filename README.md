@@ -1,10 +1,10 @@
 
 # Eleonore
 
-//Einleitung/Fragestellung 
-Diese Visualisierung beschäftigt sich mit der spanischen Kleidung als politisches Instrument und stellt dabei zwei Personen und ihre Leben vergleichend gegenüber.
+Die Visualisierung konzentriert sich auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand verschiedener Punkte.
+Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements.
 
-Scroll along to find out  
+Die Gegenüberstellung ihrer beider Leben und Kleidungsstile erfolgt systematisch anhand mehrerer Kategorien:
 [Herkunft](#herkunft), [Karl V.](#karlv.), [Heirat](#heirat), [Ehemänner](#ehemänner), [Eheleben](#eheleben), [Spanische Kleidung](#spanischekleidung) & [Eheleben](#eheleben).  
 
 
