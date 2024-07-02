@@ -5,13 +5,18 @@ Die Visualisierung konzentriert sich auf den Vergleich zwischen Eleonora di Tole
 Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements.
 
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile erfolgt systematisch anhand mehrerer Kategorien:
+
 [Herkunft](#herkunft), [Karl V.](#karlv.), [Heirat](#heirat), [Ehemänner](#ehemänner), [Eheleben](#eheleben), [Spanische Kleidung](#spanischekleidung) & [Eheleben](#eheleben).  
 
 
 <img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
 
+Agnolo Bronzino, Eleonora di Toledo mit ihrem Sohn Giovanni, ca. 1545
+
 
 <img src='img/eleonoredautriche.jpg' class='noresize'>
+
+Joos van Cleves, Éléonore d’Autriche, 1532/33
 
 
 ---
