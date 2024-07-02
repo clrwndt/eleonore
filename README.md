@@ -49,7 +49,7 @@ Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte z
 
 
 
-<img src='img/karl3.png' class='noresize'>
+<img src='img/karl4.png' class='noresize'>
 
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
