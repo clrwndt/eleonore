@@ -46,13 +46,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Karl V.
 
-//Beschreibung/Vorstellung Karl V.
+An den europäischen Höfen des 16. Jahrhunderts wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung.
+Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.
 
 
-<img src='img/textkarl.png' class='noresize'>
 
-
-<img src='img/karl.png' class='noresize'>
+<img src='img/karl2.png' class='noresize'>
 
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
