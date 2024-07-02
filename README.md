@@ -61,8 +61,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 //Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
 
+
 ### 
 <img src='img/koenigfranz.png' class='noresize'>
+
 
 ### 
 <img src='img/cosimo.png' class='noresize'>
