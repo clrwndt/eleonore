@@ -24,8 +24,6 @@ Joos van Cleves, Éléonore d’Autriche, 1532/33
 
 ## Herkunft 
 
-//Beschreibung/Vorstellung der beiden Eleonoras
-
 
 ### 
 <img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
@@ -51,7 +49,7 @@ Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte z
 
 
 
-<img src='img/karl2.png' class='noresize'>
+<img src='img/karl3.png' class='noresize'>
 
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
