@@ -25,18 +25,10 @@ Joos van Cleves, Éléonore d’Autriche, 1532/33
 ## Herkunft 
 
 
-### 
-<img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
-
-//Bild mit Text einfügen 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<img src='img/toledoherkunft.png' class='noresize'>
 
 
-### 
-<img src='img/eleonoredautriche.jpg' class='noresize'>
-
-//Bild mit Text einfügen 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+<img src='img/austricheherkunft.png' class='noresize'>
 
 
 ---
@@ -64,10 +56,10 @@ Herrschaftsgebiet Karl V.
 //Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
 
 
-<img src='img/koenigfranz.png' class='noresize'>
+<img src='img/franz2.png' class='noresize'>
 
 
-<img src='img/cosimo.png' class='noresize'>
+<img src='img/cosimo2.png' class='noresize'>
 
 
 ---
