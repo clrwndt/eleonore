@@ -27,6 +27,7 @@ Joos van Cleves, Éléonore d’Autriche, 1532/33
 Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen. Sie wuchsen jedoch nicht in Spanien auf, sondern in einem der kaiserlichen Herrschaftsgebiete - Eleonora in Neapel und Eléonore in Flandern, wo die Hofkleidung der in Spanien ähnelte.
 
 
+###
 <img src='img/toledoherkunft.png' class='noresize'>
 
 
