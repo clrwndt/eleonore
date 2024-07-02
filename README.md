@@ -54,6 +54,8 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
 
+Herrschaftsgebiet Karl V.
+
 ---
 
 
