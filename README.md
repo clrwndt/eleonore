@@ -70,10 +70,6 @@ Herrschaftsgebiet Karl V.
 //Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
 
 
-<img src='img/koenigfranz.png' class='noresize'>
-
-
-<img src='img/cosimo.png' class='noresize'>
 
 
 ---
@@ -84,10 +80,39 @@ Herrschaftsgebiet Karl V.
 //Beschreibung/Vorstellung der Spanischen Kleidung der beiden Eleonoras
 
 
-<img src='img/koenigfranz.png' class='noresize'>
+
+---
 
 
-<img src='img/cosimo.png' class='noresize'>
+## Details
+
+
+<img src='img/gesicht.png' class='noresize'>
+
+
+<img src='img/haarschmuck.png' class='noresize'>
+
+Haarschmuck mit Brosche 
+
+
+<img src='img/kette.png' class='noresize'>
+
+Kette aus Perlen und Edelsteinen
+
+
+<img src='img/schmucksteine.png' class='noresize'>
+
+
+<img src='img/manschette.png' class='noresize'>
+
+
+<img src='img/brief.png' class='noresize'>
+
+
+<img src='img/ringe.png' class='noresize'>
+
+
+<img src='img/hintergrund.png' class='noresize'>
 
 
 ---
@@ -146,39 +171,6 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 - Include an expressive preview image `img/cover.png` so that your page can be previewed on social media and messaging apps.
 - Given that your webpage might be accessed from a mobile device with a slow connection make sure to optimize image file sizes.
 
-
----
-
-
-## Details
-
-
-<img src='img/gesicht.png' class='noresize'>
-
-
-<img src='img/haarschmuck.png' class='noresize'>
-
-Haarschmuck mit Brosche 
-
-
-<img src='img/kette.png' class='noresize'>
-
-Kette aus Perlen und Edelsteinen
-
-
-<img src='img/schmucksteine.png' class='noresize'>
-
-
-<img src='img/manschette.png' class='noresize'>
-
-
-<img src='img/brief.png' class='noresize'>
-
-
-<img src='img/ringe.png' class='noresize'>
-
-
-<img src='img/hintergrund.png' class='noresize'>
 
 ---
 
