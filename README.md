@@ -43,10 +43,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 //Beschreibung/Vorstellung Karl V.
 
-
+### 
 <img src='img/textkarl.png' class='noresize'>
 
-
+### 
 <img src='img/karl.png' class='noresize'>
 
 
@@ -59,10 +59,10 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 //Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
 
-
+### 
 <img src='img/koenigfranz.png' class='noresize'>
 
-
+### 
 <img src='img/cosimo.png' class='noresize'>
 
 
