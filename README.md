@@ -80,7 +80,6 @@ Herrschaftsgebiet Karl V.
 //Beschreibung/Vorstellung der Spanischen Kleidung der beiden Eleonoras
 
 
-
 ---
 
 
