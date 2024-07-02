@@ -53,8 +53,6 @@ Herrschaftsgebiet Karl V.
 
 ## Ehemänner
 
-//Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
-
 
 <img src='img/franz2.png' class='noresize'>
 
@@ -67,17 +65,12 @@ Herrschaftsgebiet Karl V.
 
 ## Eheleben
 
-//Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
-
-
-
 
 ---
 
 
 ## Spanische Kleidung
 
-//Beschreibung/Vorstellung der Spanischen Kleidung der beiden Eleonoras
 
 
 ---
