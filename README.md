@@ -72,6 +72,21 @@ Herrschaftsgebiet Karl V.
 
 ---
 
+
+## Eheleben
+
+//Beschreibung/Vorstellung der Ehemänner der beiden Eleonoras
+
+
+<img src='img/koenigfranz.png' class='noresize'>
+
+
+<img src='img/cosimo.png' class='noresize'>
+
+
+---
+
+
 ## Spanische Kleidung
 
 //Beschreibung/Vorstellung der Spanischen Kleidung der beiden Eleonoras
@@ -176,7 +191,7 @@ Kette aus Perlen und Edelsteinen
 ---
 
 
-## Eheleben
+## xxx
 
 *Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
 
