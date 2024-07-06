@@ -160,7 +160,7 @@ Nach ihrer Ankunft in Blois und Paris wurde Eléonore am 5. März 1531 in St. De
 
 <img src='img/stehkragen.png' class='noresize'>
 
-Stehkrahen
+Stehkragen
 
 
 ---
