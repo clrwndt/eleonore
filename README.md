@@ -57,6 +57,9 @@ Herrschaftsgebiet Karl V.
 <img src='img/karl4.png' class='noresize'>
 
 
+<img src='img/karlwappen.png' class='noresize'>
+
+
 
 ---
 
