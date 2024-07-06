@@ -78,19 +78,26 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 
 
 
-## Ehemänner
+---
 
 
-<img src='img/franz2.png' class='noresize'>
+## Heirat
 
-
-<img src='img/cosimo2.png' class='noresize'>
+In der Zeit von Eléonore d’Autriche und Eleonora di Toledo spielten Ehen eine zentrale Rolle in der europäischen Politik des 16. Jahrhunderts. Diese Ehen dienten primär der Sicherung politischer Allianzen und territorialer Macht. Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt, um durch Heiraten zwischen Königreichen und Fürstentümern Frieden zu sichern und politische Unterstützung zu gewinnen. Die Ehebündnisse waren entscheidend für die Ausweitung des Territoriums und die Legitimierung von Ansprüchen auf neue Länder. Durch diese Verbindungen wurden auch familiäre Netzwerke gestärkt und Rivalitäten vermieden. Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem sie als Beraterinnen ihrer Ehemänner fungierten und politische Entscheidungen beeinflussten. Zusätzlich förderten Ehen zwischen Herrschern unterschiedlicher Länder den kulturellen Austausch und den Transfer von Wissen, was sowohl kulturelle als auch politische Auswirkungen auf die betroffenen Gesellschaften hatte. Insgesamt waren Ehen und Heiraten daher entscheidende strategische Instrumente zur Stärkung von Macht, Einfluss und Sicherheit in einer Zeit, die von intensiven politischen und territorialen Konflikten geprägt war.
 
 
 ---
 
 
 ## Eheleben
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+
+
+<img src='img/franz2.png' class='noresize'>
+
+
+<img src='img/cosimo2.png' class='noresize'>
 
 
 ---
