@@ -1,7 +1,7 @@
 
 # Spanische Mode als politisches Instrument
 
-Die Visualisierung konzentriert sich auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer beider Leben und Kleidungsstile. Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements.
+Die Visualisierung konzentriert sich auf den Vergleich zwischen *Eleonora di Toledo* und *Eléonore d’Autriche* anhand ihrer beider Leben und Kleidungsstile. Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements.
 
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextuelle Einordnung ihrer Zeit erfolgt systematisch anhand mehrerer Kategorien:
 
@@ -9,7 +9,7 @@ Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextu
 
 
 ###
-Diese Visualisierung basiert auf den Artikeln "Power-Dressing at the Courts of Cosimo de’ Medici and François I: The „moda alla spagnola“ of Spanish Consorts Eléonore d’Autriche and Eleonora di Toledo" von Janet Cox-Rearick, Vol. 30, No.60 (2009) und "Images of a New Power: Fashion at the Florentine Court in the Mid Sixteenth Century" von Niccoli, Bruna, and Roberta Orsi Landini. Alle zusätzlich herangezogenen Informationen werden durch "*" gekennzeichnet und die Quellen am Ende der Visualisierung aufgeführt.
+Diese Visualisierung basiert auf den Artikeln *"Power-Dressing at the Courts of Cosimo de’ Medici and François I: The „moda alla spagnola“ of Spanish Consorts Eléonore d’Autriche and Eleonora di Toledo" von Janet Cox-Rearick*, Vol. 30, No.60 (2009) und *"Images of a New Power: Fashion at the Florentine Court in the Mid Sixteenth Century"* von Niccoli, Bruna, and Roberta Orsi Landini. Alle zusätzlich herangezogenen Informationen werden durch "*" gekennzeichnet und die Quellen am Ende der Visualisierung aufgeführt.
 
 
 ---
@@ -21,22 +21,22 @@ Im 16. Jahrhundert war Europa von politischen Umwälzungen, religiösen Konflikt
 
 <img src='img/wissenschaft.jpg' class='noresize'>
 
-Leonardo da Vinci, Der vitruvianische Mensch, Proportionsstudie nach Vitruv, 1492
+Leonardo da Vinci, *Der vitruvianische Mensch, Proportionsstudie nach Vitruv*, 1492
 
 
 <img src='img/isabellalclara.jpg' class='noresize'>
 
-Alonso Sánchez Coello, Infantin Isabella Clara Eugenia von Spanien, ca. 1586
+Alonso Sánchez Coello, *Infantin Isabella Clara Eugenia von Spanien*, ca. 1586
 
 
 <img src='img/italienischekriege.jpg' class='noresize'>
 
-Bernard van Orley, Wandteppich, The Battle of Pavia, 1528-1531
+Bernard van Orley, Wandteppich, *The Battle of Pavia*, 1528-1531
 
 
 <img src='img/florenz.png' class='noresize'>
 
-Hartmann Schedel, Stadtansicht Florenz, 1493
+Hartmann Schedel, *Stadtansicht Florenz*, 1493
 
 ---
 
@@ -189,7 +189,7 @@ To exclude a section from the navigation menu, include `<!--skipnav-->` at the s
 ---
 
 
-## xxx
+## Credits
 
 *Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
 
