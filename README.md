@@ -237,19 +237,14 @@ https://www.britannica.com/topic/history-of-France/France-1490-1715
 
 ## Credits
 
-*Syllabus Site* was put together by [Philipp Proff](https://philippproff.eu) and [Marian Dörk](https://mariandoerk.de) with the helping hands from many people.
+Diese Visualisierung wurde gestaltet von Annalena Nerea Abramczik und Clara Wendt
 
 
-**Markdown munching**: [Marked](https://marked.js.org) by Christopher Jeffrey
+**Kurs**: Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert SoSe 2024
 
 
-**Terrific typeface**: [HK Grotesk](https://github.com/HankenDesignCo/HK-Grotesk) by Alfredo Marco Pradil
+**Friendly feedback**: Sabine de Günther
 
-
-**Friendly feedback**: Myriel Milicevic, Lamin Manneh, Fidel Thomet, Mark-Jan Bludau, Sabine de Günther and Francesca Morini
-
-
-**Yes, you!**: Syllabus Site is [made available](https://github.com/uclab-potsdam/syllabus-site/) under the liberal MIT license. Feel free to reuse and revise it!
 
 
 ---
