@@ -166,6 +166,43 @@ Stehkrahen
 ---
 
 
+## Einfluss auf Bevölkerung
+
+Der Einfluss spanischer Kleidung auf die Bevölkerung des 16. Jahrhunderts war tiefgreifend. Sie setzte neue Standards für Eleganz und Pracht, diente als Symbol für Macht und sozialen Status und beeinflusste die Modevorstellungen weit über die Grenzen Spaniens hinaus. Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.
+
+
+<img src='img/stehkragen.png' class='noresize'>
+
+Stehkrahen
+
+
+---
+
+
+## Fazit
+
+Beide Eleonoras trugen spanische Kleidung, um ihr Kaisertum zu behaupten Loyalität und Identität, aber politisch repräsentierten sie entgegengesetzte Seiten der Medaille.
+Die Beziehungen zu ihren Ehemännern spielten dabei eine zentrale Rolle.
+Während Eléonore von Habsburg ihre spanische Kleidung als Symbol ihrer kaiserlichen Herkunft und ihrer komplexen politischen Rolle zwischen Frankreich und dem Heiligen Römischen Reich trug, nutzte Eleonora di Toledo die gleiche Mode, um die Bindung ihres Ehemanns an den Kaiser und dessen Ambitionen zu unterstreichen.
+Zusammenfassend lässt sich sagen, dass die spanische Kleidung beider Eléonores nicht nur ein Ausdruck persönlicher Loyalität und kaiserlicher Identität war, sondern auch die politischen Beziehungen und Verpflichtungen ihrer Ehemänner widerspiegelte. Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politischen Allianzen und Machtstrukturen ihrer Zeit sichtbar machte.
+
+
+<img src='img/stehkragen.png' class='noresize'>
+
+Stehkrahen
+
+
+---
+
+
+## Quellen
+
+
+
+
+---
+
+
 ## xxx
 
 The *Syllabus Site* template can be easily used with minimal technical requirements.
