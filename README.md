@@ -67,15 +67,10 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 <img src='img/herkunft.png' class='noresize'>
 
 
-
-###
 <img src='img/toledoherkunft.png' class='noresize'>
 
 
 <img src='img/austricheherkunft.png' class='noresize'>
-
-
-
 
 
 ---
