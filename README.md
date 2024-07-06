@@ -156,6 +156,12 @@ Agnolo Bronzino, Detail vom *Porträt Eleonora di Toledo mit ihrem Sohn Giovanni
 
 ## Französische Kleidung
 
+Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gekennzeichnet. Ein zentrales Element war der Hennin, eine hohe, konische Kopfbedeckung, oft mit einem Schleier versehen. Frauen trugen oft eine Houppelande, ein weites, bodenlanges Gewand mit breiten Ärmeln, das reich verziert und häufig mit Pelz besetzt war. Über einem enger anliegenden Kleid trugen sie einen Surcot, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte.
+Ein weiteres wichtiges Kleidungsstück war das Sideless Gown, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war. Unter dem Hennin trugen Frauen eine Haube, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war. Die Kleidung zeigte häufig ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde.*
+
+
+### Öffentlicher Auftritt 
+
 Nach ihrer Ankunft in Blois und Paris wurde Eléonore am 5. März 1531 in St. Denis gekrönt und zog am 16. März feierlich in die Stadt ein. Die Chronisten erwähnten ihre spanische Kleidung nicht, da sie verpflichtet war, bei der Krönung und dem Einzug offizielle, identische französische Zeremoniengewänder zu tragen. Laut Guillaume Bochetels Bericht über diese Ereignisse trug sie einen purpurnen Königsmantel, verziert mit goldenen Bändern, ein mit Perlen besticktes Mieder, ein mit Hermelin besetztes Überkleid (Surcot) und eine Krone aus Juwelen und Perlen. Außerdem erwähnte Bochetel, dass die zwölf Damen, die Eléonore aus Kastilien mitgebracht hatte, purpurnen Satin „à la mode de leur pays" (nach der Mode ihres Landes, spanisch) trugen, während die französischen Dienerinnen in Satin oder Samt „à la mode de France" gekleidet waren. Die Kleidung von Eléonores Gefolge bei diesen Zeremonien bestätigt somit ihre programmierte Präsentation in spanischer Kleidung bei all ihren Auftritten.
 
 
@@ -175,7 +181,6 @@ Stehkragen
 ## Einfluss auf Bevölkerung
 
 Der Einfluss spanischer Kleidung auf die Bevölkerung des 16. Jahrhunderts war tiefgreifend. Sie setzte neue Standards für Eleganz und Pracht, diente als Symbol für Macht und sozialen Status und beeinflusste die Modevorstellungen weit über die Grenzen Spaniens hinaus. Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.
-
 
 <img src='img/lasmeninas.jpg' class='noresize'>
 
