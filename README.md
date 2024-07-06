@@ -3,9 +3,9 @@
 
 Die Visualisierung konzentriert sich auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer beider Leben und Kleidungsstile. Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements.
 
-Die Gegenüberstellung ihrer beider Leben und Kleidungsstile erfolgt systematisch anhand mehrerer Kategorien:
+Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextuelle Einordnung ihrer Zeit erfolgt systematisch anhand mehrerer Kategorien:
 
-[Herkunft](#herkunft), [Karl V.](#karlv.), [Heirat](#heirat), [Ehemänner](#ehemänner), [Eheleben](#eheleben), [Spanische Kleidung](#spanischekleidung) ..  
+[Einordnung](#einordnung), [Karl V.](#karlv.), [Herkunft](#herkunft), [Heirat](#heirat), [Eheleben](#eheleben), [Politische Ziele](#politischeziele), [Spanische Kleidung](#spanischekleidung), [Französische Kleidung](#französischekleidung), [Einfluss auf Bevölkerung](#einflussaufbevölkerung), [Fazit](#fazit)
 
 ###
 Diese Visualisierung basiert auf den Artikeln "Power-Dressing at the Courts of Cosimo de’ Medici and François I: The „moda alla spagnola“ of Spanish Consorts Eléonore d’Autriche and Eleonora di Toledo" von Janet Cox-Rearick, Vol. 30, No.60 (2009) und "Images of a New Power: Fashion at the Florentine Court in the Mid Sixteenth Century" von Niccoli, Bruna, and Roberta Orsi Landini. Alle zusätzlich herangezogenen Informationen werden durch "*" gekennzeichnet und die Quellen am Ende der Visualisierung aufgeführt.
