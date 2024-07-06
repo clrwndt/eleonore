@@ -158,7 +158,12 @@ Agnolo Bronzino, Detail vom *Porträt Eleonora di Toledo mit ihrem Sohn Giovanni
 Nach ihrer Ankunft in Blois und Paris wurde Eléonore am 5. März 1531 in St. Denis gekrönt und zog am 16. März feierlich in die Stadt ein. Die Chronisten erwähnten ihre spanische Kleidung nicht, da sie verpflichtet war, bei der Krönung und dem Einzug offizielle, identische französische Zeremoniengewänder zu tragen. Laut Guillaume Bochetels Bericht über diese Ereignisse trug sie einen purpurnen Königsmantel, verziert mit goldenen Bändern, ein mit Perlen besticktes Mieder, ein mit Hermelin besetztes Überkleid (Surcot) und eine Krone aus Juwelen und Perlen. Außerdem erwähnte Bochetel, dass die zwölf Damen, die Eléonore aus Kastilien mitgebracht hatte, purpurnen Satin „à la mode de leur pays" (nach der Mode ihres Landes, spanisch) trugen, während die französischen Dienerinnen in Satin oder Samt „à la mode de France" gekleidet waren. Die Kleidung von Eléonores Gefolge bei diesen Zeremonien bestätigt somit ihre programmierte Präsentation in spanischer Kleidung bei all ihren Auftritten.
 
 
-<img src='img/stehkragen.png' class='noresize'>
+<img src='img/haube2.png' class='noresize'>
+
+Haube
+
+
+<img src='img/stehkragen2.png' class='noresize'>
 
 Stehkragen
 
