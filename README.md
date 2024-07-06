@@ -312,7 +312,7 @@ Diese Visualisierung wurde gestaltet von Annalena Nerea Abramczik und Clara Wend
 **Kurs**: Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert SoSe 2024
 
 
-**Betreuungk**: Sabine de Günther
+**Betreuung**: Sabine de Günther
 
 
 
