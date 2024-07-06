@@ -119,7 +119,8 @@ Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakt
 - Weite Ärmel (Farolitos)
 - Verzierungen und Stickereien, Umhänge (Capas)
 - Schärpen und Gürtel (Fajas und Tocados) 
-- Verwendung von Seide und Samt.
+- Verwendung von Seide und Samt
+  
 Diese Elemente zusammen verliehen der spanischen Mode im 16. Jahrhundert eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
 
 
@@ -191,6 +192,7 @@ Stehkragen
 ## Einfluss auf Bevölkerung
 
 Der Einfluss spanischer Kleidung auf die Bevölkerung des 16. Jahrhunderts war tiefgreifend. Sie setzte neue Standards für Eleganz und Pracht, diente als Symbol für Macht und sozialen Status und beeinflusste die Modevorstellungen weit über die Grenzen Spaniens hinaus. Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.
+
 <img src='img/lasmeninas.jpg' class='noresize'>
 
 Diego Velázquez, *Las Meninas*, 1656
@@ -228,63 +230,6 @@ https://www.britannica.com/place/Spain/Spain-in-1600
 
 https://www.britannica.com/topic/history-of-France/France-1490-1715
 
-
-
----
-
-
-## xxx
-
-The *Syllabus Site* template can be easily used with minimal technical requirements.
-
-
-![](img/sidebyside.webp)  
-Page content and source side by side
-
-
-### Get started
-
-1. Download or clone the [GitHub repository](https://github.com/uclab-potsdam/syllabus-site/)
-2. Give your page a title, fill out open graph fields, and adjust theme color in `index.html`
-3. Add your content into `README.md` and `img/`
-
-
-### Files
-
-The template has the following file structure:
-
-      img/
-      index.html
-      src/
-      README.md
-
-The `README.md` file contains all the textual content of your page and references the images that you need to add to the `img/` directory. 
-
-The `index.html` file connects template and your content; here you need to make a few edits to add title, description, and preview of your webpage. 
-
-You do not need to change anything within `src/`, which contains the internal files of the template.
-
-
-### Syntax
-
-The `README.md` uses the [Markdown](https://en.wikipedia.org/wiki/Markdown) format, a markup language used by many platforms including GitHub.
-
-There are two conventions we introduce to distinguish and connect sections and items:
-
-- **Sections** are delineated by a horizontal rule `---` 
-- **Items** are separated by two empty consecutive lines
-
-Each section should contain a heading:
-`#` for primary, `##` for secondary, and so on.
-
-To exclude a section from the navigation menu, include `<!--skipnav-->` at the start of the section.
-
-
-
-### Things to consider
-
-- Include an expressive preview image `img/cover.png` so that your page can be previewed on social media and messaging apps.
-- Given that your webpage might be accessed from a mobile device with a slow connection make sure to optimize image file sizes.
 
 
 ---
