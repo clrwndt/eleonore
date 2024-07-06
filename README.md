@@ -19,7 +19,7 @@ Diese Visualisierung basiert auf den Artikeln *"Power-Dressing at the Courts of 
 
 ## Einordnung
 
-Im 16. Jahrhundert war Europa von politischen Umwälzungen, religiösen Konflikten und territorialen Rivalitäten geprägt. Die Habsburger und die Valois-Könige dominierten die politische Bühne und beeinflussten das Leben der Adeligen stark. Dies war die Zeit der Renaissance, eine Epoche des kulturellen Aufbruchs und der Wiederentdeckung antiker Künste und Wissenschaften. Eléonore d’Autriche, Schwester von Karl V., lebte in Frankreich als Königin von François I. und Eleonora di Toledo, lebte in Florenz, als Frau von Cosimo I. de' Medici, den Karl V. zum Herzog ernannt hatte. Beide Frauen  trugen die spanische Mode als Teil ihres öffentlichen Auftrittes und Ausdrucks ihrer Macht. Sie lebten in einer Zeit intensiver politischer Auseinandersetzungen und kultureller Blüte, wobei ihre Residenzen Paris und Florenz Zentren europäischer Macht und Kultur darstellten​.
+Im 16. Jahrhundert war Europa von politischen Umwälzungen, religiösen Konflikten und territorialen Rivalitäten geprägt. Die Habsburger und die Valois-Könige dominierten die politische Bühne und beeinflussten das Leben der Adeligen stark. Dies war die Zeit der Renaissance, eine Epoche des kulturellen Aufbruchs und der Wiederentdeckung antiker Künste und Wissenschaften. Eléonore d’Autriche, Schwester von Karl V., lebte in Frankreich als Königin von François I. und Eleonora di Toledo, lebte in Florenz, als Frau von Cosimo I. de' Medici, den Karl V. zum Herzog ernannt hatte. Beide Frauen  trugen die spanische Mode als Teil ihres öffentlichen Auftrittes und Ausdrucks ihrer Macht. Sie lebten in einer Zeit intensiver politischer Auseinandersetzungen und kultureller Blüte, wobei ihre Residenzen Paris und Florenz Zentren europäischer Macht und Kultur darstellten​.*
 
 
 <img src='img/wissenschaft.jpg' class='noresize'>
@@ -47,7 +47,7 @@ Hartmann Schedel, *Stadtansicht Florenz*, 1493
 
 ## Karl V.
 
-An den europäischen Höfen des 16. Jahrhunderts wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung. Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.
+An den europäischen Höfen des 16. Jahrhunderts wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung. Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.*
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
 
@@ -101,7 +101,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Politische Ziele
 
-Im 16. Jahrhundert waren Frankreich und Spanien erbitterte Rivalen. Dynastische Spannungen zwischen den Habsburgern und den Valois-Königen, insbesondere durch die Figuren Karl V. und Philipp II., sowie Franz I. und Heinrich II., prägten die Epoche. Territorialkonflikte wie die Italienischen Kriege und religiöse Spannungen zwischen Katholiken und Protestanten verschärften die Situation. Spanien profitierte wirtschaftlich von seinen Kolonien, während Frankreich ebenfalls koloniale Bestrebungen verfolgte. Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Franz I., konnten die Spannungen nicht vollständig lösen, und zahlreiche militärische Konflikte waren die Folge.
+Im 16. Jahrhundert waren Frankreich und Spanien erbitterte Rivalen. Dynastische Spannungen zwischen den Habsburgern und den Valois-Königen, insbesondere durch die Figuren Karl V. und Philipp II., sowie Franz I. und Heinrich II., prägten die Epoche. Territorialkonflikte wie die Italienischen Kriege und religiöse Spannungen zwischen Katholiken und Protestanten verschärften die Situation. Spanien profitierte wirtschaftlich von seinen Kolonien, während Frankreich ebenfalls koloniale Bestrebungen verfolgte. Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Franz I., konnten die Spannungen nicht vollständig lösen, und zahlreiche militärische Konflikte waren die Folge.*
 
 <img src='img/karlkriege.jpg' class='noresize'>
 
@@ -116,6 +116,7 @@ Titian, *Kaiser Karl V. nach der Schlacht bei Mühlberg*, 1548
 Insgesamt spielte die spanische Kleidung im 16. Jahrhundert eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
 Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakteristische Merkmale, die die Mode dieser Zeit prägten: Hohe Kragen (Gorgerinas), Weite Ärmel (Farolitos), Verzierungen und Stickereien, Umhänge (Capas), Schärpen und Gürtel (Fajas und Tocados) und die Verwendung von Seide und Samt.
 Diese Elemente zusammen verliehen der spanischen Mode im 16. Jahrhundert eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
+
 
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
 
@@ -176,9 +177,11 @@ Stehkragen
 Der Einfluss spanischer Kleidung auf die Bevölkerung des 16. Jahrhunderts war tiefgreifend. Sie setzte neue Standards für Eleganz und Pracht, diente als Symbol für Macht und sozialen Status und beeinflusste die Modevorstellungen weit über die Grenzen Spaniens hinaus. Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.
 
 
-<img src='img/stehkragen.png' class='noresize'>
+<img src='img/lasmeninas.jpg' class='noresize'>
 
-Stehkrahen
+Diego Velázquez, *Las Meninas*, 1656
+
+
 
 
 ---
@@ -189,12 +192,13 @@ Stehkrahen
 Beide Eleonoras trugen spanische Kleidung, um ihr Kaisertum zu behaupten Loyalität und Identität, aber politisch repräsentierten sie entgegengesetzte Seiten der Medaille.
 Die Beziehungen zu ihren Ehemännern spielten dabei eine zentrale Rolle.
 Während Eléonore von Habsburg ihre spanische Kleidung als Symbol ihrer kaiserlichen Herkunft und ihrer komplexen politischen Rolle zwischen Frankreich und dem Heiligen Römischen Reich trug, nutzte Eleonora di Toledo die gleiche Mode, um die Bindung ihres Ehemanns an den Kaiser und dessen Ambitionen zu unterstreichen.
-Zusammenfassend lässt sich sagen, dass die spanische Kleidung beider Eléonores nicht nur ein Ausdruck persönlicher Loyalität und kaiserlicher Identität war, sondern auch die politischen Beziehungen und Verpflichtungen ihrer Ehemänner widerspiegelte. Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politischen Allianzen und Machtstrukturen ihrer Zeit sichtbar machte.
+Zusammenfassend lässt sich sagen, dass die spanische Kleidung beider Eléonores nicht nur ein Ausdruck persönlicher Loyalität und kaiserlicher Identität war, sondern auch die politischen Beziehungen und Verpflichtungen ihrer Ehemänner widerspiegelte. 
+Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politischen Allianzen und Machtstrukturen ihrer Zeit sichtbar machte.
 
 
-<img src='img/stehkragen.png' class='noresize'>
+<img src='img/' class='noresize'>
 
-Stehkrahen
+
 
 
 ---
@@ -202,6 +206,13 @@ Stehkrahen
 
 ## Quellen
 
+https://www.britannica.com/biography/Francis-I-king-of-France
+
+https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
+
+https://www.britannica.com/place/Spain/Spain-in-1600
+
+https://www.britannica.com/topic/history-of-France/France-1490-1715
 
 
 
