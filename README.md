@@ -273,8 +273,10 @@ Diego Velázquez, *Las Meninas*, 1656
 ## Fazit
 
 Beide Eleonoras trugen spanische Kleidung, um ihre Loyalität und Identität zum Kaisertum zu behaupten, aber politisch repräsentierten sie entgegengesetzte Seiten der Medaille.
+
 Die Beziehungen zu ihren Ehemännern spielten dabei eine zentrale Rolle.
 Während Eléonore von Habsburg ihre spanische Kleidung als Symbol ihrer kaiserlichen Herkunft und ihrer komplexen politischen Rolle zwischen Frankreich und dem Heiligen Römischen Reich trug, nutzte Eleonora di Toledo die gleiche Mode, um die Bindung ihres Ehemanns an den Kaiser und dessen Ambitionen zu unterstreichen.
+
 Zusammenfassend lässt sich sagen, dass die spanische Kleidung beider Eléonores nicht nur ein Ausdruck persönlicher Loyalität und kaiserlicher Identität war, sondern auch die politischen Beziehungen und Verpflichtungen ihrer Ehemänner widerspiegelte. 
 Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politischen Allianzen und Machtstrukturen ihrer Zeit sichtbar machte.
 
