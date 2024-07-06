@@ -98,9 +98,55 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ---
 
 
+## Politische Ziele
+
+Im 16. Jahrhundert waren Frankreich und Spanien erbitterte Rivalen. Dynastische Spannungen zwischen den Habsburgern und den Valois-Königen, insbesondere durch die Figuren Karl V. und Philipp II., sowie Franz I. und Heinrich II., prägten die Epoche. Territorialkonflikte wie die Italienischen Kriege und religiöse Spannungen zwischen Katholiken und Protestanten verschärften die Situation. Spanien profitierte wirtschaftlich von seinen Kolonien, während Frankreich ebenfalls koloniale Bestrebungen verfolgte. Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Franz I., konnten die Spannungen nicht vollständig lösen, und zahlreiche militärische Konflikte waren die Folge.
+
+<img src='img/karlkriege.jpg' class='noresize'>
+
+Titian, Kaiser Karl V. nach der Schlacht bei Mühlberg, 1548
+
+
+---
+
+
 ## Spanische Kleidung
 
+Insgesamt spielte die spanische Kleidung im 16. Jahrhundert eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
+Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakteristische Merkmale, die die Mode dieser Zeit prägten: Hohe Kragen (Gorgerinas), Weite Ärmel (Farolitos), Verzierungen und Stickereien, Umhänge (Capas), Schärpen und Gürtel (Fajas und Tocados) und die Verwendung von Seide und Samt.
+Diese Elemente zusammen verliehen der spanischen Mode im 16. Jahrhundert eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
 
+Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
+
+
+<img src='img/ärmel.png' class='noresize'>
+
+Joos van Cleve, Detail vom Porträt *Eléonore d’Autriche*, 1532/33
+
+
+<img src='img/elizabeth.jpg' class='noresize'>
+
+Unbekannter englischer Künstler, *Elizabeth I (Armada Portrait)*, 1588
+
+
+<img src='img/isabellalclara.jpg' class='noresize'>
+
+Alonso Sánchez Coello, *Infantin Isabella Clara Eugenia von Spanien*, ca. 1586
+
+
+<img src='img/annavonösterreich.jpg' class='noresize'>
+
+Hans von Aachen, *Erzherzogin Anna von Österreich*, 1604
+
+
+<img src='img/königkarlIX.jpg' class='noresize'>
+
+François Clouet, *König Karl IX. von Frankreich*, 1569
+
+
+<img src='img/kleid.png' class='noresize'>
+
+Agnolo Bronzino, Detail vom *Porträt Eleonora di Toledo mit ihrem Sohn Giovanni*,1545
 
 ---
 
