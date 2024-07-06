@@ -7,7 +7,7 @@ Die Visualisierung konzentriert sich auf den Vergleich zwischen *Eleonora di Tol
 
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextuelle Einordnung ihrer Zeit erfolgt systematisch anhand mehrerer Kategorien:
 
-[Einordnung](#einordnung), [Karl V.](#karlv.), [Herkunft](#herkunft), [Heirat](#heirat), [Eheleben](#eheleben), [Politische Ziele](#politischeziele), [Spanische Kleidung](#spanischekleidung), [Französische Kleidung](#franzoesischekleidung), [Einfluss auf Bevölkerung](#einflussaufbevoelkerung), [Fazit](#fazit)
+[Einordnung](#einordnung), [Karl V.](#karlv.), [Herkunft](#herkunft), [Heirat](#heirat), [Eheleben](#eheleben), [Politische Ziele](#politische ziele), [Spanische Kleidung](#spanische kleidung), [Französische Kleidung](#franzoesische kleidung), [Einfluss auf Bevölkerung](#einfluss auf bevoelkerung), [Fazit](#fazit)
 
 
 ###
@@ -243,7 +243,7 @@ Diese Visualisierung wurde gestaltet von Annalena Nerea Abramczik und Clara Wend
 **Kurs**: Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert SoSe 2024
 
 
-**Friendly feedback**: Sabine de Günther
+**Betreuungk**: Sabine de Günther
 
 
 
