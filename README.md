@@ -156,8 +156,13 @@ Agnolo Bronzino, Detail vom *Porträt Eleonora di Toledo mit ihrem Sohn Giovanni
 
 ## Französische Kleidung
 
-Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gekennzeichnet. Ein zentrales Element war der Hennin, eine hohe, konische Kopfbedeckung, oft mit einem Schleier versehen. Frauen trugen oft eine Houppelande, ein weites, bodenlanges Gewand mit breiten Ärmeln, das reich verziert und häufig mit Pelz besetzt war. Über einem enger anliegenden Kleid trugen sie einen Surcot, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte.
-Ein weiteres wichtiges Kleidungsstück war das Sideless Gown, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war. Unter dem Hennin trugen Frauen eine Haube, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war. Die Kleidung zeigte häufig ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde.*
+Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gekennzeichnet. Zentrale Elemente der Kleidung waren: 
+- der *Hennin*, eine hohe, konische Kopfbedeckung, oft mit einem Schleier versehen  
+- eine *Houppelande*, ein weites, bodenlanges Gewand mit breiten Ärmeln, das reich verziert und häufig mit Pelz besetzt war
+- einen *Surcot*, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
+- das *Sideless Gown*, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
+- eine *Haube*, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
+Die Kleidung zeigte häufig ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde.*
 
 
 ### Öffentlicher Auftritt 
