@@ -153,7 +153,7 @@ Um 1500 wurde spanische Kleidung in verschiedenen Teilen Europas und den Kolonie
 3. In den von Spanien kontrollierten Gebieten in Italien, wie Neapel und Sizilien, war spanische Kleidung ein Zeichen der politischen und kulturellen Dominanz sowie in den österreichischen und deutschen Gebieten des Habsburgerreichs. 
 Wo Karl V. regierte, war spanische Mode ebenfalls weit verbreitet. Seine Herrschaft und seine Heiratsallianzen verbreiteten die spanische Kleidung in Mitteleuropa.
 4. Die spanische Mode beeinflusste auch die Höfe in Frankreich, England und den Niederlanden, wo Adelige und Königinnen, die durch Heirat mit der spanischen Krone verbunden waren, den Stil übernahmen.
-5. 
+ 
 Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht Spaniens wider, die dazu führte, dass die spanische Mode in vielen Teilen der Welt anerkannt und getragen wurde​.
 
 
