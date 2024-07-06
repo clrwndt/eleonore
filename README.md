@@ -105,7 +105,7 @@ Im 16. Jahrhundert waren Frankreich und Spanien erbitterte Rivalen. Dynastische 
 
 <img src='img/karlkriege.jpg' class='noresize'>
 
-Titian, Kaiser Karl V. nach der Schlacht bei Mühlberg, 1548
+Titian, *Kaiser Karl V. nach der Schlacht bei Mühlberg*, 1548
 
 
 ---
