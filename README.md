@@ -120,7 +120,7 @@ Diese Elemente zusammen verliehen der spanischen Mode im 16. Jahrhundert eine un
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
 
 
-<img src='img/ärmel.png' class='noresize'>
+<img src='img/aermel.png' class='noresize'>
 
 Joos van Cleve, Detail vom Porträt *Eléonore d’Autriche*, 1532/33
 
@@ -135,12 +135,12 @@ Unbekannter englischer Künstler, *Elizabeth I (Armada Portrait)*, 1588
 Alonso Sánchez Coello, *Infantin Isabella Clara Eugenia von Spanien*, ca. 1586
 
 
-<img src='img/annavonösterreich.jpg' class='noresize'>
+<img src='img/annavonoesterreich.jpg' class='noresize'>
 
 Hans von Aachen, *Erzherzogin Anna von Österreich*, 1604
 
 
-<img src='img/königkarlIX.jpg' class='noresize'>
+<img src='img/koenigkarl.jpg' class='noresize'>
 
 François Clouet, *König Karl IX. von Frankreich*, 1569
 
