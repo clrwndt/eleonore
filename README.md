@@ -94,8 +94,8 @@ Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt
 
 
 ## Eheleben
-
-Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem sie als Beraterinnen ihrer Ehemänner fungierten und politische Entscheidungen beeinflussten. 
+Die Ehen und in der Zeit des 16. Jahrhunderts spielten eine entscheidende Rolle in der Politik und Gesellschaft, insbesondere in Europa, wo politische Allianzen und territoriale Macht oft durch dynastische Ehen gesichert wurden.
+Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem sie als Beraterinnen ihrer Ehemänner fungierten und politische Entscheidungen beeinflussten. Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich deutlich aufgrund ihrer unterschiedlichen persönlichen und politischen Umstände.
 
 
 <img src='img/franz2.png' class='noresize'>
