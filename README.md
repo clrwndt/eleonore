@@ -147,6 +147,16 @@ Alonso Sánchez Coello, *Infantin Isabella Clara Eugenia von Spanien*, ca. 1586
 Hans von Aachen, *Erzherzogin Anna von Österreich*, 1604
 
 
+Um 1500 wurde spanische Kleidung in verschiedenen Teilen Europas und den Kolonien getragen. 
+1. In den königlichen Residenzen wie dem Alcázar von Sevilla und dem Palacio Real in Madrid war spanische Kleidung vorherrschend. 
+2. Die Oberschicht in Spanien, einschließlich der Städte Toledo, Barcelona und Granada, trug aufwendige spanische Kleidung, die durch schwere Stoffe, dunkle Farben und reichhaltige Verzierungen gekennzeichnet war.
+3. In den von Spanien kontrollierten Gebieten in Italien, wie Neapel und Sizilien, war spanische Kleidung ein Zeichen der politischen und kulturellen Dominanz sowie in den österreichischen und deutschen Gebieten des Habsburgerreichs. 
+Wo Karl V. regierte, war spanische Mode ebenfalls weit verbreitet. Seine Herrschaft und seine Heiratsallianzen verbreiteten die spanische Kleidung in Mitteleuropa.
+4. Die spanische Mode beeinflusste auch die Höfe in Frankreich, England und den Niederlanden, wo Adelige und Königinnen, die durch Heirat mit der spanischen Krone verbunden waren, den Stil übernahmen.
+5. 
+Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht Spaniens wider, die dazu führte, dass die spanische Mode in vielen Teilen der Welt anerkannt und getragen wurde​.
+
+
 <img src='img/koenigkarl.jpg' class='noresize'>
 
 François Clouet, *König Karl IX. von Frankreich*, 1569
@@ -222,7 +232,10 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 - einen *Surcot*, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
 - das *Sideless Gown*, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
 - eine *Haube*, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
-Die Kleidung zeigte häufig ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde.*
+- ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde
+
+
+Die französische Mode entwickelte sich stark am königlichen Hof in Frankreich, insbesondere in Paris und im Louvre-Palast. Der Hof war ein Zentrum für Mode, Kunst und Kultur. Neben dem königlichen Hof trugen Adelige und Aristokraten in ihren Residenzen und Schlössern in ganz Frankreich französische Mode. Wichtige Orte waren z.B. das Château de Chambord und das Château de Fontainebleau.*
 
 
 <img src='img/' class='noresize'>
