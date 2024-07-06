@@ -280,8 +280,6 @@ Diego Velázquez, *Las Meninas*, 1656
 
 ## Fazit
 
-<img src='img/einleitung.png' class='noresize'>
-
 Beide Eleonoras trugen spanische Kleidung, um ihre Loyalität und Identität zum Kaisertum zu behaupten, aber politisch repräsentierten sie entgegengesetzte Seiten der Medaille.
 
 Die Beziehungen zu ihren Ehemännern spielten dabei eine zentrale Rolle.
