@@ -241,7 +241,7 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 
 <img src='img/' class='noresize'>
 
-xxx
+Unbekannter französischer Künstler, *Claude de France mit ihren Töchtern, sowie ihrer Schwester Renée (vorne rechts) und Eléonore d’Autriche (hinten links)*, 1528
 
 
 <img src='img/haube2.png' class='noresize'>
