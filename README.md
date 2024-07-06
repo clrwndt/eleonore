@@ -1,23 +1,41 @@
 
 # Spanische Mode als politisches Instrument
 
-Die Visualisierung konzentriert sich auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand verschiedener Punkte.
-Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements.
+Die Visualisierung konzentriert sich auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer beider Leben und Kleidungsstile. Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements.
 
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile erfolgt systematisch anhand mehrerer Kategorien:
 
 [Herkunft](#herkunft), [Karl V.](#karlv.), [Heirat](#heirat), [Ehemänner](#ehemänner), [Eheleben](#eheleben), [Spanische Kleidung](#spanischekleidung) ..  
 
-
-<img src='img/eleonoraditoledo-bronzino.jpg' class='noresize'>
-
-Agnolo Bronzino, Eleonora di Toledo mit ihrem Sohn Giovanni, ca. 1545
+###
+Diese Visualisierung basiert auf den Artikeln "Power-Dressing at the Courts of Cosimo de’ Medici and François I: The „moda alla spagnola“ of Spanish Consorts Eléonore d’Autriche and Eleonora di Toledo" von Janet Cox-Rearick, Vol. 30, No.60 (2009) und "Images of a New Power: Fashion at the Florentine Court in the Mid Sixteenth Century" von Niccoli, Bruna, and Roberta Orsi Landini. Alle zusätzlich herangezogenen Informationen werden durch "*" gekennzeichnet und die Quellen am Ende der Visualisierung aufgeführt.
 
 
-<img src='img/eleonoredautriche.jpg' class='noresize'>
+---
 
-Joos van Cleves, Éléonore d’Autriche, 1532/33
+## Einordnung
 
+Im 16. Jahrhundert war Europa von politischen Umwälzungen, religiösen Konflikten und territorialen Rivalitäten geprägt. Die Habsburger und die Valois-Könige dominierten die politische Bühne und beeinflussten das Leben der Adeligen stark. Dies war die Zeit der Renaissance, eine Epoche des kulturellen Aufbruchs und der Wiederentdeckung antiker Künste und Wissenschaften. Eléonore d’Autriche, Schwester von Karl V., lebte in Frankreich als Königin von François I. und Eleonora di Toledo, lebte in Florenz, als Frau von Cosimo I. de' Medici, den Karl V. zum Herzog ernannt hatte. Beide Frauen  trugen die spanische Mode als Teil ihres öffentlichen Auftrittes und Ausdrucks ihrer Macht. Sie lebten in einer Zeit intensiver politischer Auseinandersetzungen und kultureller Blüte, wobei ihre Residenzen Paris und Florenz Zentren europäischer Macht und Kultur darstellten​.
+
+
+<img src='img/wissenschaft.jpg' class='noresize'>
+
+Leonardo da Vinci, Der vitruvianische Mensch, Proportionsstudie nach Vitruv, 1492
+
+
+<img src='img/isabellalclara.jpg' class='noresize'>
+
+Alonso Sánchez Coello, Infantin Isabella Clara Eugenia von Spanien, ca. 1586
+
+
+<img src='img/italienischekriege.jpg' class='noresize'>
+
+Bernard van Orley, Wandteppich, The Battle of Pavia, 1528-1531
+
+
+<img src='img/florenz.png' class='noresize'>
+
+Hartmann Schedel, Stadtansicht Florenz, 1493
 
 ---
 
