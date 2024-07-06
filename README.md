@@ -121,7 +121,7 @@ Titian, *Kaiser Karl V. nach der Schlacht bei Mühlberg*, 1548
 
 ## Spanische Kleidung
 
-Insgesamt spielte die spanische Kleidung im 16. Jahrhundert eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
+Insgesamt spielte die spanische Kleidung eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
 Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakteristische Merkmale, die die Mode dieser Zeit prägten: 
 - Hohe Kragen (Gorgerinas)
 - Weite Ärmel (Farolitos)
@@ -129,7 +129,7 @@ Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakt
 - Schärpen und Gürtel (Fajas und Tocados) 
 - Verwendung von Seide und Samt
   
-Diese Elemente zusammen verliehen der spanischen Mode im 16. Jahrhundert eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
+Diese Elemente zusammen verliehen der spanischen Mode eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
 
 
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
