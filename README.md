@@ -40,12 +40,32 @@ Bernard van Orley, Wandteppich, *The Battle of Pavia*, 1528-1531
 
 Hartmann Schedel, *Stadtansicht Florenz*, 1493
 
+
+---
+
+
+## Karl V.
+
+An den europäischen Höfen des 16. Jahrhunderts wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung. Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.
+
+<img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
+
+Herrschaftsgebiet Karl V.
+
+
+<img src='img/karl4.png' class='noresize'>
+
+
+
 ---
 
 
 ## Herkunft 
 
 Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen. Sie wuchsen jedoch nicht in Spanien auf, sondern in einem der kaiserlichen Herrschaftsgebiete - Eleonora in Neapel und Eléonore in Flandern, wo die Hofkleidung der in Spanien ähnelte.
+
+<img src='img/herkunft.png' class='noresize'>
+
 
 
 ###
@@ -55,24 +75,7 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 <img src='img/austricheherkunft.png' class='noresize'>
 
 
----
 
-
-## Karl V.
-
-An den europäischen Höfen des 16. Jahrhunderts wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung.
-Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.
-
-
-
-<img src='img/karl4.png' class='noresize'>
-
-
-<img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
-
-Herrschaftsgebiet Karl V.
-
----
 
 
 ## Ehemänner
