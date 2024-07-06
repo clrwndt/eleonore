@@ -79,7 +79,7 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 
 ## Heirat
 
-Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt, um durch Heiraten zwischen Königreichen und Fürstentümern Frieden zu sichern und politische Unterstützung zu gewinnen. Die Ehebündnisse waren entscheidend für die Ausweitung des Territoriums und die Legitimierung von Ansprüchen auf neue Länder. Durch diese Verbindungen wurden auch familiäre Netzwerke gestärkt und Rivalitäten vermieden. Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem sie als Beraterinnen ihrer Ehemänner fungierten und politische Entscheidungen beeinflussten. Insgesamt waren Ehen und Heiraten daher entscheidende strategische Instrumente zur Stärkung von Macht, Einfluss und Sicherheit in einer Zeit, die von intensiven politischen und territorialen Konflikten geprägt war.
+Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt, um durch Heiraten zwischen Königreichen und Fürstentümern Frieden zu sichern und politische Unterstützung zu gewinnen. Die Ehebündnisse waren entscheidend für die Ausweitung des Territoriums und die Legitimierung von Ansprüchen auf neue Länder. Durch diese Verbindungen wurden auch familiäre Netzwerke gestärkt und Rivalitäten vermieden. Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Instrumente zur Stärkung von Macht, Einfluss und Sicherheit in einer Zeit, die von intensiven politischen und territorialen Konflikten geprägt war.
 
 
 ---
@@ -87,7 +87,7 @@ Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt
 
 ## Eheleben
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem sie als Beraterinnen ihrer Ehemänner fungierten und politische Entscheidungen beeinflussten. 
 
 
 <img src='img/franz2.png' class='noresize'>
@@ -235,9 +235,6 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 - ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde
 
 
-Die französische Mode entwickelte sich stark am königlichen Hof in Frankreich, insbesondere in Paris und im Louvre-Palast. Der Hof war ein Zentrum für Mode, Kunst und Kultur. Neben dem königlichen Hof trugen Adelige und Aristokraten in ihren Residenzen und Schlössern in ganz Frankreich französische Mode. Wichtige Orte waren z.B. das Château de Chambord und das Château de Fontainebleau.*
-
-
 <img src='img/' class='noresize'>
 
 xxx
@@ -246,6 +243,9 @@ xxx
 <img src='img/haube2.png' class='noresize'>
 
 Haube
+
+
+Die französische Mode entwickelte sich stark am königlichen Hof in Frankreich, insbesondere in Paris und im Louvre-Palast. Der Hof war ein Zentrum für Mode, Kunst und Kultur. Neben dem königlichen Hof trugen Adelige und Aristokraten in ihren Residenzen und Schlössern in ganz Frankreich französische Mode. Wichtige Orte waren z.B. das Château de Chambord und das Château de Fontainebleau.*
 
 
 <img src='img/stehkragen2.png' class='noresize'>
