@@ -239,9 +239,9 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 - ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde
 
 
-<img src='img/' class='noresize'>
+<img src='img/franzoesischekleidung2.jpeg' class='noresize'>
 
-Unbekannter französischer Künstler, *Claude de France mit ihren Töchtern, sowie ihrer Schwester Renée (vorne rechts) und Eléonore d’Autriche (hinten links)*, 1528
+Unbekannter französischer Künstler, *Claude de France mit ihren Töchtern, sowie ihrer Schwester und Eléonore d’Autriche (hinten links)*, 1528
 
 
 <img src='img/haube2.png' class='noresize'>
