@@ -162,7 +162,7 @@ Um 1500 wurde spanische Kleidung in verschiedenen Teilen Europas und den Kolonie
 Wo Karl V. regierte, war spanische Mode ebenfalls weit verbreitet. Seine Herrschaft und seine Heiratsallianzen verbreiteten die spanische Kleidung in Mitteleuropa.
 4. Die spanische Mode beeinflusste auch die Höfe in Frankreich, England und den Niederlanden, wo Adelige und Königinnen, die durch Heirat mit der spanischen Krone verbunden waren, den Stil übernahmen.
  
-Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht Spaniens wider, die dazu führte, dass die spanische Mode in vielen Teilen der Welt anerkannt und getragen wurde​.
+Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht Spaniens wider, die dazu führte, dass die spanische Mode in vielen Teilen der Welt anerkannt und getragen wurde​.*
 
 
 <img src='img/koenigkarl.jpg' class='noresize'>
@@ -240,7 +240,7 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 - einen *Surcot*, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
 - das *Sideless Gown*, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
 - eine *Haube*, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
-- ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde
+- ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde*
 
 
 <img src='img/franzoesischekleidung2.jpeg' class='noresize'>
