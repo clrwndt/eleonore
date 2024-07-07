@@ -242,7 +242,7 @@ Unbekannter französischer Künstler, *Claude de France mit ihren Töchtern, sow
 Haube
 
 
-Die französische Mode entwickelte sich stark am königlichen Hof in Frankreich, insbesondere in Paris und im Louvre-Palast. Der Hof war ein Zentrum für Mode, Kunst und Kultur. Neben dem königlichen Hof trugen Adelige und Aristokraten in ihren Residenzen und Schlössern in ganz Frankreich französische Mode. Wichtige Orte waren z.B. das Château de Chambord und das Château de Fontainebleau.*
+Die französische Mode entwickelte sich stark am königlichen Hof in Frankreich, insbesondere in Paris und im Louvre-Palast. Der Hof war ein Zentrum für Mode, Kunst und Kultur. Neben dem königlichen Hof trugen Adelige und Aristokraten in ihren Residenzen und Schlössern in ganz Frankreich französische Mode. Wichtige Orte waren z.B. das Château de Chambord und das Château de Fontainebleau.*4
 
 
 <img src='img/stehkragen2.png' class='noresize'>
