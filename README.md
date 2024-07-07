@@ -140,7 +140,8 @@ Insgesamt spielte die spanische Kleidung eine zentrale Rolle in der Darstellung 
 Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakteristische Merkmale, die die Mode dieser Zeit prägten: 
 - Hohe Kragen (Gorgerinas)
 - Weite Ärmel (Farolitos)
-- Verzierungen und Stickereien, Umhänge (Capas)
+- Verzierungen und Stickereien
+- Umhänge (Capas)
 - Schärpen und Gürtel (Fajas und Tocados) 
 - Verwendung von Seide und Samt
   
