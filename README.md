@@ -289,15 +289,20 @@ Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politisc
 
 ## Quellen
 
-*1 https://www.britannica.com/topic/history-of-France/France-1490-1715
+*1 
+https://www.britannica.com/topic/history-of-France/France-1490-1715
 
-*2 https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
+*2 
+https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
 
-*3 https://www.britannica.com/biography/Francis-I-king-of-France
+*3 
+https://www.britannica.com/biography/Francis-I-king-of-France
 
-*4 https://www.britannica.com/topic/history-of-France/France-1490-1715
+*4 
+https://www.britannica.com/topic/history-of-France/France-1490-1715
 
-*5 https://www.britannica.com/place/Spain/Spain-in-1600
+*5 
+https://www.britannica.com/place/Spain/Spain-in-1600
 
 
 
