@@ -24,11 +24,11 @@ Alle zusätzlich herangezogenen Informationen werden durch "*" gekennzeichnet un
 
 ## Einordnung
 
-Im 16. Jahrhundert war Europa von politischen Umwälzungen, religiösen Konflikten und territorialen Rivalitäten geprägt. Die Habsburger und die Valois-Könige dominierten die politische Bühne und beeinflussten das Leben der Adeligen stark. Dies war die Zeit der Renaissance, eine Epoche des kulturellen Aufbruchs und der Wiederentdeckung antiker Künste und Wissenschaften. 
+Im 16. Jahrhundert war Europa von politischen Umwälzungen, religiösen Konflikten und territorialen Rivalitäten geprägt. Die Habsburger und die Valois-Könige dominierten die politische Bühne und beeinflussten das Leben der Adeligen stark. Dies war die Zeit der Renaissance, eine Epoche des kulturellen Aufbruchs und der Wiederentdeckung antiker Künste und Wissenschaften.*1
 
 Eléonore d’Autriche, Schwester von Karl V., lebte in Frankreich als Königin von François I. und Eleonora di Toledo, lebte in Florenz, als Frau von Cosimo I. de' Medici, den Karl V. zum Herzog ernannt hatte. 
 
-Beide Frauen  trugen die spanische Mode als Teil ihres öffentlichen Auftrittes und Ausdrucks ihrer Macht. Sie lebten in einer Zeit intensiver politischer Auseinandersetzungen und kultureller Blüte, wobei ihre Residenzen Paris und Florenz Zentren europäischer Macht und Kultur darstellten​.*
+Beide Frauen  trugen die spanische Mode als Teil ihres öffentlichen Auftrittes und Ausdrucks ihrer Macht. Sie lebten in einer Zeit intensiver politischer Auseinandersetzungen und kultureller Blüte, wobei ihre Residenzen Paris und Florenz Zentren europäischer Macht und Kultur darstellten​.
 
 
 <img src='img/wissenschaft.jpg' class='noresize'>
@@ -58,7 +58,7 @@ Hartmann Schedel, *Stadtansicht Florenz*, 1493
 
 An den europäischen Höfen wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung. 
 
-Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.*
+Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.*2
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
 
@@ -124,7 +124,7 @@ Im 16. Jahrhundert waren Frankreich und Spanien erbitterte Rivalen. Dynastische 
 
 Territorialkonflikte wie die Italienischen Kriege und religiöse Spannungen zwischen Katholiken und Protestanten verschärften die Situation. Spanien profitierte wirtschaftlich von seinen Kolonien, während Frankreich ebenfalls koloniale Bestrebungen verfolgte. 
 
-Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Franz I., konnten die Spannungen nicht vollständig lösen, und zahlreiche militärische Konflikte waren die Folge.*
+Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Franz I., konnten die Spannungen nicht vollständig lösen, und zahlreiche militärische Konflikte waren die Folge.*4
 
 <img src='img/karlkriege.jpg' class='noresize'>
 
@@ -229,7 +229,7 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 - einen *Surcot*, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
 - das *Sideless Gown*, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
 - eine *Haube*, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
-- ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde*
+- ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde*4
 
 
 <img src='img/franzoesischekleidung2.jpeg' class='noresize'>
@@ -257,7 +257,7 @@ Stehkragen
 
 Der Einfluss spanischer Kleidung auf die Bevölkerung war tiefgreifend. Sie setzte neue Standards für Eleganz und Pracht, diente als Symbol für Macht und sozialen Status und beeinflusste die Modevorstellungen weit über die Grenzen Spaniens hinaus. 
 
-Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.
+Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.*5
 
 <img src='img/lasmeninas.jpg' class='noresize'>
 
@@ -288,13 +288,15 @@ Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politisc
 
 ## Quellen
 
-https://www.britannica.com/biography/Francis-I-king-of-France
+*1 https://www.britannica.com/topic/history-of-France/France-1490-1715
 
-https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
+*2 https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
 
-https://www.britannica.com/place/Spain/Spain-in-1600
+*3 https://www.britannica.com/biography/Francis-I-king-of-France
 
-https://www.britannica.com/topic/history-of-France/France-1490-1715
+*4 https://www.britannica.com/topic/history-of-France/France-1490-1715
+
+*5 https://www.britannica.com/place/Spain/Spain-in-1600
 
 
 
