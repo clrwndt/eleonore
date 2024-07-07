@@ -136,15 +136,17 @@ div.hasImg span {
 }
 
 h1 {
+    font-family: Solide Mirage;
     margin: .25em 0;
     font-size: 2em;
 }
 h2 {
-    font-family: 'Solide Mirage', sans-serif;
+    font-family: 'Solide Mirage';
     margin: .25em 0;
     font-size: 1,5em;
 }
 h3 {
+    font-family: hkgrotesk;
     margin: .5em 0;
     font-size: 0,75em;    
 }
