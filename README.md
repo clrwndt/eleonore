@@ -55,7 +55,9 @@ Hartmann Schedel, *Stadtansicht Florenz*, 1493
 
 ## Karl V.
 
-An den europäischen Höfen wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung. Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.*
+An den europäischen Höfen wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung. 
+
+Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.*
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
 
@@ -91,7 +93,9 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 
 ## Heirat
 
-Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt, um durch Heiraten zwischen Königreichen und Fürstentümern Frieden zu sichern und politische Unterstützung zu gewinnen. Die Ehebündnisse waren entscheidend für die Ausweitung des Territoriums und die Legitimierung von Ansprüchen auf neue Länder. Durch diese Verbindungen wurden auch familiäre Netzwerke gestärkt und Rivalitäten vermieden. Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Instrumente zur Stärkung von Macht, Einfluss und Sicherheit in einer Zeit, die von intensiven politischen und territorialen Konflikten geprägt war.
+Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt, um durch Heiraten zwischen Königreichen und Fürstentümern Frieden zu sichern und politische Unterstützung zu gewinnen. Die Ehebündnisse waren entscheidend für die Ausweitung des Territoriums und die Legitimierung von Ansprüchen auf neue Länder. Durch diese Verbindungen wurden auch familiäre Netzwerke gestärkt und Rivalitäten vermieden. 
+
+Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Instrumente zur Stärkung von Macht, Einfluss und Sicherheit in einer Zeit, die von intensiven politischen und territorialen Konflikten geprägt war.
 
 
 ---
@@ -99,7 +103,9 @@ Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt
 
 ## Eheleben
 Die Ehen und in der damaligigen Zeit spielten eine entscheidende Rolle in der Politik und Gesellschaft, insbesondere in Europa, wo politische Allianzen und territoriale Macht oft durch dynastische Ehen gesichert wurden.
-Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem sie als Beraterinnen ihrer Ehemänner fungierten und politische Entscheidungen beeinflussten. Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich deutlich aufgrund ihrer unterschiedlichen persönlichen und politischen Umstände.
+Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem sie als Beraterinnen ihrer Ehemänner fungierten und politische Entscheidungen beeinflussten. 
+
+Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich deutlich aufgrund ihrer unterschiedlichen persönlichen und politischen Umstände.
 
 
 <img src='img/franz2.png' class='noresize'>
@@ -113,7 +119,11 @@ Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem si
 
 ## Politische Ziele
 
-Im 16. Jahrhundert waren Frankreich und Spanien erbitterte Rivalen. Dynastische Spannungen zwischen den Habsburgern und den Valois-Königen, insbesondere durch die Figuren Karl V. und Philipp II., sowie Franz I. und Heinrich II., prägten die Epoche. Territorialkonflikte wie die Italienischen Kriege und religiöse Spannungen zwischen Katholiken und Protestanten verschärften die Situation. Spanien profitierte wirtschaftlich von seinen Kolonien, während Frankreich ebenfalls koloniale Bestrebungen verfolgte. Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Franz I., konnten die Spannungen nicht vollständig lösen, und zahlreiche militärische Konflikte waren die Folge.*
+Im 16. Jahrhundert waren Frankreich und Spanien erbitterte Rivalen. Dynastische Spannungen zwischen den Habsburgern und den Valois-Königen, insbesondere durch die Figuren Karl V. und Philipp II., sowie Franz I. und Heinrich II., prägten die Epoche. 
+
+Territorialkonflikte wie die Italienischen Kriege und religiöse Spannungen zwischen Katholiken und Protestanten verschärften die Situation. Spanien profitierte wirtschaftlich von seinen Kolonien, während Frankreich ebenfalls koloniale Bestrebungen verfolgte. 
+
+Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Franz I., konnten die Spannungen nicht vollständig lösen, und zahlreiche militärische Konflikte waren die Folge.*
 
 <img src='img/karlkriege.jpg' class='noresize'>
 
@@ -244,7 +254,9 @@ Stehkragen
 
 ## Einfluss auf Bevölkerung
 
-Der Einfluss spanischer Kleidung auf die Bevölkerung war tiefgreifend. Sie setzte neue Standards für Eleganz und Pracht, diente als Symbol für Macht und sozialen Status und beeinflusste die Modevorstellungen weit über die Grenzen Spaniens hinaus. Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.
+Der Einfluss spanischer Kleidung auf die Bevölkerung war tiefgreifend. Sie setzte neue Standards für Eleganz und Pracht, diente als Symbol für Macht und sozialen Status und beeinflusste die Modevorstellungen weit über die Grenzen Spaniens hinaus. 
+
+Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürgerliche Gesellschaft, was zu einer breiten Adaption und Anpassung dieser Stile führte. Die Verbreitung und Akzeptanz der spanischen Kleidung war ein Zeichen des kulturellen Austauschs und der politischen Verbindungen in einer Zeit, die von dynastischen Ehen und territorialen Machtkämpfen geprägt war.
 
 <img src='img/lasmeninas.jpg' class='noresize'>
 
