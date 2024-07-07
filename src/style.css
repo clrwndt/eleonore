@@ -227,8 +227,8 @@ p {
 
 .content img, .cursor img {
     max-width: 100%;
-    height: 25em;
-    max-height: 25em;
+    height: 40em; /* Erhöht die Höhe der Bilder */
+    max-height: 40em; /* Erhöht die maximale Höhe der Bilder */
     object-fit: contain;
 }
 
