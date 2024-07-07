@@ -7,7 +7,7 @@ Die Visualisierung konzentriert sich auf den Vergleich zwischen *Eleonora di Tol
 
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextuelle Einordnung ihrer Zeit erfolgt systematisch anhand mehrerer Kategorien:
 
-[Einordnung](#einordnung),  [Karl V.](#karl.v.),  [Herkunft](#herkunft),  [Heirat](#heirat),  [Eheleben](#eheleben),  [Politische Ziele](#politische.ziele),  [Spanische Kleidung](#spanische.kleidung),  [Französische Kleidung](#franzoesische.kleidung),  [Einfluss auf Bevölkerung](#einfluss.auf.bevoelkerung),  [Fazit](#fazit)
+[Einordnung](#einordnung),  [KarlV.](#karlv.),  [Herkunft](#herkunft),  [Heirat](#heirat),  [Eheleben](#eheleben),  [PolitischeZiele](#politischeziele),  [SpanischeKleidung](#spanischekleidung),  [FranzösischeKleidung](#franzoesischekleidung),  [EinflussaufBevölkerung](#einflussaufbevoelkerung),  [Fazit](#fazit)
 
 
 ###
