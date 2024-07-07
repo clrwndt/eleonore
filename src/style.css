@@ -9,7 +9,7 @@
 @font-face {
     font-family: Solide Mirage;
     src: url("./fonts/Solide_Mirage-Etroit_web.woff") format("woff");
-    font-weight: bold;
+    font-weight: normal;
 }
 
 @font-face {
