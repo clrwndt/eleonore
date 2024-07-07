@@ -36,7 +36,7 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    font-family: hkgrotesk, sans-serif;
+    font-family: hkgrotesk, , Solide Mirage, sans-serif;
 	touch-action: pan-x pan-y;
     --background-menu: hsla(0, 0%, 100%, .8);
     --background: color-mix(in srgb, var(--theme-color) 15%, hsla(0, 0%, 90%, 1));
