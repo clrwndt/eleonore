@@ -213,13 +213,23 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Abnehmbare Ärmel
 
+
+<img src='img/zimarra.png' class='noresize'>
+
+Zimarra
+
+
 ---
 
 
 ## Frisuren
 
-Die Frisuren und der Haarschmuck von Eleonora di Toledo und Eléonore d’Autriche waren durch luxuriöse und kunstvolle Gestaltung geprägt. Typisch spanische Frisuren beinhalteten lange Haare, die oft bis zu den Fersen reichten und in aufwendigen Zöpfen geflochten wurden. Eine markante Frisur war der **Tanzado**, ein langer Zopf, der in einer Hülle aus Stoff oder Netz gehalten und mit Bändern verziert wurde.
-Der Haarschmuck war zur damaligen Zeit war sehr opulent. Goldene Verzierungen und **Haarnetze** in Form feinen Goldfäden waren weit verbreitet. **Perlen** wurden oft in die Frisur integriert oder in das Haar eingeflochten. Ein weiteres auffälliges Element waren **Federn**, die als Teil von **Hauben** oder Kopfbedeckungen verwendet wurden. Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mit Gold- und Perlenverzierungen. Eléonore d’Autriche ist bekannt für eine karmesinrote Samthaube mit einem weißen Federbusch, was den luxuriösen Haarschmuck dieser Zeit unterstreicht.
+Die Frisuren und der Haarschmuck von Eleonora di Toledo und Eléonore d’Autriche waren durch luxuriöse und kunstvolle Gestaltung geprägt. 
+
+Typisch spanische Frisuren beinhalteten lange Haare, die oft bis zu den Fersen reichten und in aufwendigen Zöpfen geflochten wurden. Eine markante Frisur war der **Tanzado**, ein langer Zopf, der in einer Hülle aus Stoff oder Netz gehalten und mit Bändern verziert wurde.
+Der Haarschmuck war zur damaligen Zeit war sehr opulent. Goldene Verzierungen und **Haarnetze** in Form feinen Goldfäden waren weit verbreitet. **Perlen** wurden oft in die Frisur integriert oder in das Haar eingeflochten. Ein weiteres auffälliges Element waren **Federn**, die als Teil von **Hauben** oder Kopfbedeckungen verwendet wurden. 
+
+Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mit Gold- und Perlenverzierungen. Eléonore d’Autriche ist bekannt für eine karmesinrote Samthaube mit einem weißen Federbusch, was den luxuriösen Haarschmuck dieser Zeit unterstreicht.
 
 
 <img src='img/federhaube2.png' class='noresize'>
