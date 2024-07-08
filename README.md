@@ -138,12 +138,12 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 
 Insgesamt spielte die spanische Kleidung eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
 Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakteristische Merkmale, die die Mode dieser Zeit prägten: 
-- Hohe Kragen (Gorgerinas)
-- Weite Ärmel (Farolitos)
-- Verzierungen und Stickereien
-- Umhänge (Capas)
-- Schärpen und Gürtel (Fajas und Tocados) 
-- Verwendung von Seide und Samt
+- **Hohe Kragen** (Gorgerinas)
+- **Weite Ärmel** (Farolitos)
+- **Verzierungen und Stickereien**
+- **Umhänge** (Capas)
+- **Schärpen und Gürtel** (Fajas und Tocados) 
+- **Verwendung von **Seide und Samt**
   
 Diese Elemente zusammen verliehen der spanischen Mode eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
 
@@ -256,12 +256,12 @@ Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mi
 ## Französische Kleidung
 
 Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gekennzeichnet. Zentrale Elemente der Kleidung waren: 
-- der *Hennin*, eine hohe, konische Kopfbedeckung, oft mit einem Schleier versehen  
-- eine *Houppelande*, ein weites, bodenlanges Gewand mit breiten Ärmeln, das reich verziert und häufig mit Pelz besetzt war
-- einen *Surcot*, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
-- das *Sideless Gown*, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
-- eine *Haube*, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
-- ein tiefes, quadratisches oder rundes Dekolleté, das bei höfischen Anlässen zur Schau gestellt wurde*4
+- der **Hennin**, eine hohe, konische Kopfbedeckung, oft mit einem Schleier versehen  
+- eine **Houppelande**, ein weites, bodenlanges Gewand mit breiten Ärmeln, das reich verziert und häufig mit Pelz besetzt war
+- einen **Surcot**, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
+- das **Sideless Gown**, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
+- eine **Haube**, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
+- ein tiefes, quadratisches oder rundes **Dekolleté**, das bei höfischen Anlässen zur Schau gestellt wurde*4
 
 
 <img src='img/franzoesischekleidung2.jpeg' class='noresize'>
