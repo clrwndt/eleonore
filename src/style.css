@@ -39,6 +39,7 @@ body {
     font-family: hkgrotesk, Solide Mirage;
 	touch-action: pan-x pan-y;
     --background-menu: hsla(0, 0%, 100%, .8);
+    --background: #f0f0f0; /* Ändere diesen Wert zu der gewünschten Farbe */
     --background: color-mix(in srgb, var(--theme-color) 15%, hsla(0, 0%, 90%, 1));
     --background-cursor: color-mix(in srgb, var(--theme-color) 10%, hsla(0, 0%, 95%, .9));
     --background-content: color-mix(in srgb, var(--theme-color) 5%, hsla(0, 0%, 100%, .95));
