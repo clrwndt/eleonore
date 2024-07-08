@@ -134,7 +134,7 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 ---
 
 
-## Spanische Kleidung
+## „Moda alla spagnola“
 
 Insgesamt spielte die spanische Kleidung eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
 Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakteristische Merkmale, die die Mode dieser Zeit prägten: 
@@ -150,10 +150,6 @@ Diese Elemente zusammen verliehen der spanischen Mode eine unverwechselbare Eleg
 
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
 
-
-<img src='img/aermel.png' class='noresize'>
-
-[Joos van Cleve, Detail vom Porträt *Eléonore d’Autriche*, 1532/33](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
 
 
 <img src='img/elizabeth.jpg' class='noresize'>
@@ -186,10 +182,6 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 [François Clouet, *König Karl IX. von Frankreich*, 1569](https://www.khm.at/objektdb/detail/494/)
 
 
-<img src='img/kleid.png' class='noresize'>
-
-[Agnolo Bronzino, Detail vom *Porträt Eleonora di Toledo mit ihrem Sohn Giovanni*,1545](https://www.uffizi.it/en/artworks/eleonora-di-toledo)
-
 
 ---
 
@@ -206,10 +198,15 @@ Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di To
 Granatapfel Motiv
 
 
+<img src='img/verzierungen.png' class='noresize'>
+
+Stickereien
+
+
 ---
 
 
-## Zimarra
+## Spanische Kleidungsstücke
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -218,7 +215,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ---
 
 
-## Frisur
+## Frisuren
 
 Die Frisuren und der Haarschmuck von Eleonora di Toledo und Eléonore d’Autriche waren durch luxuriöse und kunstvolle Gestaltung geprägt. Typisch spanische Frisuren beinhalteten lange Haare, die oft bis zu den Fersen reichten und in aufwendigen Zöpfen geflochten wurden. Eine markante Frisur war der **Tanzado**, ein langer Zopf, der in einer Hülle aus Stoff oder Netz gehalten und mit Bändern verziert wurde.
 Der Haarschmuck war zur damaligen Zeit war sehr opulent. Goldene Verzierungen und **Haarnetze** in Form feinen Goldfäden waren weit verbreitet. **Perlen** wurden oft in die Frisur integriert oder in das Haar eingeflochten. Ein weiteres auffälliges Element waren **Federn**, die als Teil von **Hauben** oder Kopfbedeckungen verwendet wurden. Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mit Gold- und Perlenverzierungen. Eléonore d’Autriche ist bekannt für eine karmesinrote Samthaube mit einem weißen Federbusch, was den luxuriösen Haarschmuck dieser Zeit unterstreicht.
