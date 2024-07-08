@@ -262,9 +262,7 @@ Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürge
 
 <img src='img/lasmeninas.jpg' class='noresize'>
 
-Diego Velázquez, *Las Meninas*, 1656
-
-
+([Diego Velázquez, *Las Meninas*, 1656](https://de.wikipedia.org/wiki/Las_Meninas#/media/Datei:Las_Meninas_(1656),_by_Velazquez.jpg)/) 
 
 
 ---
