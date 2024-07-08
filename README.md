@@ -13,8 +13,8 @@ Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextu
 
 ###
 Diese Visualisierung basiert auf den Artikeln:
-- *"Power-Dressing at the Courts of Cosimo de’ Medici and François I: The „moda alla spagnola“ of Spanish Consorts Eléonore d’Autriche and Eleonora di Toledo" von Janet Cox-Rearick*, Vol. 30, No.60 (2009)
-- *"Images of a New Power: Fashion at the Florentine Court in the Mid Sixteenth Century"* von Niccoli, Bruna, and Roberta Orsi Landini
+- [*"Power-Dressing at the Courts of Cosimo de’ Medici and François I: The „moda alla spagnola“ of Spanish Consorts Eléonore d’Autriche and Eleonora di Toledo" von Janet Cox-Rearick*, Vol. 30, No.60 (2009)](https://www.jstor.org/stable/25702881)
+- [*"Images of a New Power: Fashion at the Florentine Court in the Mid Sixteenth Century"* von Niccoli, Bruna, and Roberta Orsi Landini](https://www.academia.edu/23670761/Images_of_a_New_Power_Fashion_at_the_Florentine_Court_in_the_Mid_Sixteenth_Century_ROBERTA_ORSI_LANDINI_AND_BRUNA_NICCOLI_A_Spanish_Sovereign_in_Florence)
   
 Alle zusätzlich herangezogenen Informationen werden durch "*" gekennzeichnet und die Quellen am Ende der Visualisierung aufgeführt.
 
