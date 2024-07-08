@@ -151,7 +151,6 @@ Diese Elemente zusammen verliehen der spanischen Mode eine unverwechselbare Eleg
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
 
 
-
 <img src='img/elizabeth.jpg' class='noresize'>
 
 [Unbekannter englischer Künstler, *Elizabeth I (Armada Portrait)*, 1588](https://en.wikipedia.org/wiki/Armada_Portrait#/media/File:Elizabeth_I_(Armada_Portrait).jpg)
@@ -210,7 +209,9 @@ Stickereien
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
+<img src='img/aermel2.png' class='noresize'>
 
+Abnehmbare Ärmel
 
 ---
 
