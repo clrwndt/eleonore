@@ -168,7 +168,7 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 
 <img src='img/annavonoesterreich.jpg' class='noresize'>
 
-Hans von Aachen, *Erzherzogin Anna von Österreich*, 1604
+[Hans von Aachen, *Erzherzogin Anna von Österreich*, 1604](https://www.habsburger.net/de/medien/hans-von-aachen-erzherzogin-anna-1585-1618-tochter-von-erzherzog-ferdinand-ii-landesfurst-von)
 
 
 Um 1500 wurde spanische Kleidung in verschiedenen Teilen Europas und den Kolonien getragen:
@@ -183,7 +183,7 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 
 <img src='img/koenigkarl.jpg' class='noresize'>
 
-François Clouet, *König Karl IX. von Frankreich*, 1569
+[François Clouet, *König Karl IX. von Frankreich*, 1569](https://www.khm.at/objektdb/detail/494/)
 
 
 <img src='img/kleid.png' class='noresize'>
@@ -235,7 +235,7 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 
 <img src='img/franzoesischekleidung2.jpeg' class='noresize'>
 
-Unbekannter französischer Künstler, *Claude de France mit ihren Töchtern, sowie ihrer Schwester und Eléonore d’Autriche (hinten links)*, 1528
+[Unbekannter französischer Künstler, *Claude de France mit ihren Töchtern, sowie ihrer Schwester und Eléonore d’Autriche (hinten links)*, 1528](https://de.wikipedia.org/wiki/Claude_de_France#/media/Datei:Claude_de_France_(1499-1524).jpg)
 
 
 <img src='img/haube2.png' class='noresize'>
