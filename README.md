@@ -33,22 +33,22 @@ Beide Frauen  trugen die spanische Mode als Teil ihres öffentlichen Auftrittes 
 
 <img src='img/wissenschaft.jpg' class='noresize'>
 
-Leonardo da Vinci, *Der vitruvianische Mensch, Proportionsstudie nach Vitruv*, 1492
+[Leonardo da Vinci, *Der vitruvianische Mensch, Proportionsstudie nach Vitruv*, 1492](https://de.wikipedia.org/wiki/Vitruvianischer_Mensch#/media/Datei:Da_Vinci_Vitruve_Luc_Viatour.jpg)
 
 
 <img src='img/isabellalclara.jpg' class='noresize'>
 
-Alonso Sánchez Coello, *Infantin Isabella Clara Eugenia von Spanien*, ca. 1586
+[Alonso Sánchez Coello, *Isabel de Borbón, Wife of Philip IV*, Ca. 1620](https://www.museodelprado.es/en/the-collection/art-work/isabel-de-borbon-wife-of-philip-iv/32aa7087-3c47-45ed-918f-7a9a1fee365b?searchid=3f0b468d-efee-3fac-a5ea-58106485a760)
 
 
 <img src='img/italienischekriege.jpg' class='noresize'>
 
-Bernard van Orley, Wandteppich, *The Battle of Pavia*, 1528-1531
+[Bernard van Orley, Wandteppich, *The Battle of Pavia*, 1528-1531](https://canon.codart.nl/artwork/battle-of-pavia/)
 
 
 <img src='img/florenz.png' class='noresize'>
 
-Hartmann Schedel, *Stadtansicht Florenz*, 1493
+[Hartmann Schedel, *Stadtansicht Florenz*, 1493](https://de.wikipedia.org/wiki/Geschichte_von_Florenz#/media/Datei:Florence1493.png)
 
 
 ---
@@ -62,7 +62,7 @@ Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte z
 
 <img src='img/herrschaftsgebietkarl.jpg' class='noresize'>
 
-Herrschaftsgebiet Karl V.
+[Herrschaftsgebiet Karl V.](https://www.dhm.de/mediathek/kaiser-karl-v/wappentafel/item/showDetail/Topic/?tx_dhm_topic%5BcategoryItem%5D=6002&cHash=4c606d5f1bc795b4e6d34fa2786bd5f7)
 
 
 <img src='img/karl4.png' class='noresize'>
@@ -70,7 +70,7 @@ Herrschaftsgebiet Karl V.
 
 <img src='img/karlwappen2.png' class='noresize'>
 
-Wappen Kaiser Karl V.
+[Wappen Kaiser Karl V.](https://commons.wikimedia.org/wiki/File:Wappen_Kaiser_Karl_V.svg)
 
 
 ---
@@ -128,7 +128,7 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 
 <img src='img/karlkriege.jpg' class='noresize'>
 
-Titian, *Kaiser Karl V. nach der Schlacht bei Mühlberg*, 1548
+[Titian, *Kaiser Karl V. nach der Schlacht bei Mühlberg*, 1548](https://de.wikipedia.org/wiki/Kaiser_Karl_V._nach_der_Schlacht_bei_Mühlberg#/media/Datei:Carlos_V_en_Mühlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg)
 
 
 ---
@@ -153,17 +153,17 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 
 <img src='img/aermel.png' class='noresize'>
 
-Joos van Cleve, Detail vom Porträt *Eléonore d’Autriche*, 1532/33
+[Joos van Cleve, Detail vom Porträt *Eléonore d’Autriche*, 1532/33](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
 
 
 <img src='img/elizabeth.jpg' class='noresize'>
 
-Unbekannter englischer Künstler, *Elizabeth I (Armada Portrait)*, 1588
+[Unbekannter englischer Künstler, *Elizabeth I (Armada Portrait)*, 1588](https://en.wikipedia.org/wiki/Armada_Portrait#/media/File:Elizabeth_I_(Armada_Portrait).jpg)
 
 
 <img src='img/isabellalclara.jpg' class='noresize'>
 
-Alonso Sánchez Coello, *Infantin Isabella Clara Eugenia von Spanien*, ca. 1586
+[Alonso Sánchez Coello, *Isabel de Borbón, Wife of Philip IV*, Ca. 1620](https://www.museodelprado.es/en/the-collection/art-work/isabel-de-borbon-wife-of-philip-iv/32aa7087-3c47-45ed-918f-7a9a1fee365b?searchid=3f0b468d-efee-3fac-a5ea-58106485a760)
 
 
 <img src='img/annavonoesterreich.jpg' class='noresize'>
@@ -188,7 +188,7 @@ François Clouet, *König Karl IX. von Frankreich*, 1569
 
 <img src='img/kleid.png' class='noresize'>
 
-Agnolo Bronzino, Detail vom *Porträt Eleonora di Toledo mit ihrem Sohn Giovanni*,1545
+[Agnolo Bronzino, Detail vom *Porträt Eleonora di Toledo mit ihrem Sohn Giovanni*,1545](https://www.uffizi.it/en/artworks/eleonora-di-toledo)
 
 
 ---
