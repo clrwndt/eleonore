@@ -194,12 +194,12 @@ Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di To
 
 <img src='img/muster.png' class='noresize'>
 
-Granatapfel Motiv
+[Granatapfel Motiv](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
 
 
 <img src='img/verzierungen.png' class='noresize'>
 
-Stickereien
+[Stickereien](https://de.wikipedia.org/wiki/Eleonora_von_Toledo_%281522–1562%29#/media/Datei:Bronzino,_Agnolo_-_Eleonora_of_Toledo_-_National_Gallery_in_Prague.jpg)
 
 
 ---
@@ -211,12 +211,12 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 <img src='img/aermel2.png' class='noresize'>
 
-Abnehmbare Ärmel
+[Abnehmbare Ärmel](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
 
 
 <img src='img/zimarra.png' class='noresize'>
 
-Zimarra
+[Zimarra](https://commons.wikimedia.org/wiki/File:Ritratto_di_Eleonora_di_Toledo.jpg)
 
 
 ---
@@ -234,12 +234,12 @@ Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mi
 
 <img src='img/federhaube2.png' class='noresize'>
 
-Federhaube
+[Federhaube](https://fr.m.wikipedia.org/wiki/Fichier:François_I_with_Eleanor,_Queen_of_France_-_Royal_Collection.jpg)
 
 
 <img src='img/haarnetz.png' class='noresize'>
 
-Goldenes Haarnetz
+[Goldenes Haarnetz](https://de.wikipedia.org/wiki/Eleonora_von_Toledo_%281522–1562%29#/media/Datei:Bronzino,_Agnolo_-_Eleonora_of_Toledo_-_National_Gallery_in_Prague.jpg)
 
 
 
@@ -264,7 +264,7 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 
 <img src='img/haube2.png' class='noresize'>
 
-Haube
+[Haube](https://commons.wikimedia.org/wiki/File:Léonard_Limosin_-_Éléonore_d%27Autriche_-_Musée_de_la_Renaissance.jpg)
 
 
 Die französische Mode entwickelte sich stark am königlichen Hof in Frankreich, insbesondere in Paris und im Louvre-Palast. Der Hof war ein Zentrum für Mode, Kunst und Kultur. Neben dem königlichen Hof trugen Adelige und Aristokraten in ihren Residenzen und Schlössern in ganz Frankreich französische Mode. Wichtige Orte waren z.B. das Château de Chambord und das Château de Fontainebleau.*4
@@ -272,7 +272,7 @@ Die französische Mode entwickelte sich stark am königlichen Hof in Frankreich,
 
 <img src='img/stehkragen2.png' class='noresize'>
 
-Stehkragen
+[Stehkragen](https://commons.wikimedia.org/wiki/File:Léonard_Limosin_-_Éléonore_d%27Autriche_-_Musée_de_la_Renaissance.jpg)
 
 
 ---
