@@ -148,9 +148,6 @@ Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakt
 Diese Elemente zusammen verliehen der spanischen Mode eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
 
 
-Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
-
-
 <img src='img/elizabeth.jpg' class='noresize'>
 
 [Unbekannter englischer Künstler, *Elizabeth I (Armada Portrait)*, 1588](https://en.wikipedia.org/wiki/Armada_Portrait#/media/File:Elizabeth_I_(Armada_Portrait).jpg)
@@ -190,6 +187,9 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di Toledo und Eléonore d’Autriche, zeichnete sich durch luxuriöse Stoffe und kunstvolle Verzierungen aus.
 
 **Brokat**, ein schwerer Stoff mit eingewebten Gold- oder Silberfäden (**Tiras**), war für festliche Kleidung beliebt. **Taft**, bekannt für seine glänzende Oberfläche, gab Kleidern Struktur und Volumen. **Samt**, mit seinem weichen Flor, war für Kleidung und Umhänge geschätzt. **Seide** in glatten und gemusterten Varianten spielte eine zentrale Rolle. **Damast**, ein gemusterter Seidenstoff, fand ebenfalls breite Verwendung. Vor allem waren **Blumenmuster** sehr beliebt und wurden oft stilisiert und symmetrisch angeordnet. Rosen, Lilien und Granatäpfel waren häufige Motive. Zusätzlich wurden viele Stoffe mit aufwendigen Stickereien aus Gold- und Silberfäden, Perlen und Edelsteinen verziert. **Spitze**, die im 16. Jahrhundert populär wurde, schmückte Kragen und Ärmel. 
+
+
+Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
 
 
 <img src='img/muster.png' class='noresize'>
