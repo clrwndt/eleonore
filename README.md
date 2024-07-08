@@ -211,7 +211,7 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 2. **Bodices & Korsetts**: Eng anliegende Oberteile, oft mit verstärkten Korsetts, formten eine schmale Taille und hoben die Brust hervor. Diese Oberteile waren oft reich verziert.
 3. **Hohe Krägen & Halskrausen**: Steife, hohe Krägen, oft aus Spitze und mit Draht verstärkt, waren ein charakteristisches Element der spanischen Mode. Diese Krägen, auch als "Golillas" bekannt, verliehen dem Träger eine imposante Erscheinung.
 4. **Ärmel**: Die Ärmel waren oft abnehmbar und konnten separat gestaltet werden. Sie waren häufig gepufft, geschlitzt oder mit Stickereien und Schmuck verziert. Abnehmbare Ärmel ermöglichten es, verschiedene
-5. **Gürteln und Schärpen**: Schmale, oft reich verzierte Gürtel und Schärpen betonten die Taille und wurden über Kleidern getragen. Sie konnten aus Seide, Samt oder sogar Metall gefertigt sein.
+5. **Gürtel und Schärpen**: Schmale, oft reich verzierte Gürtel und Schärpen betonten die Taille und wurden über Kleidern getragen. Sie konnten aus Seide, Samt oder sogar Metall gefertigt sein.
 6. **Zimarras**: Mäntel und Umhänge aus luxuriösen Stoffen wie Samt oder Brokat, oft mit Pelz gefüttert oder besetzt, waren sowohl ein modisches Statement als auch ein Schutz gegen das Wetter.
 7. **Schmuck**: Schwere goldene Halsketten mit großen Edelsteinen wie Saphiren, Rubinen oder Smaragden waren besonders populär. Oft wurden diese Ketten zusätzlich mit Perlen oder kleineren Edelsteinen als Anhänger verziert.
 
