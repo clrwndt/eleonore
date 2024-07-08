@@ -207,8 +207,6 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 
 ## Spanische Kleidungsstücke
 
-Die spanische Mode des 16. Jahrhunderts, insbesondere bei hochrangigen Persönlichkeiten wie Eleonora di Toledo und Eléonore d’Autriche, war geprägt von bestimmten charakteristischen Kleidungselementen. Diese Elemente spiegelten den hohen sozialen Status und die Raffinesse der Trägerinnen wider:
-
 1. **Verdugado** (Farthingale): steifer Unterrock, der die charakteristische kegelförmige Silhouette des Rocks erzeugte.
 2. **Bodices & Korsetts**: Eng anliegende Oberteile, oft mit verstärkten Korsetts, formten eine schmale Taille und hoben die Brust hervor. Diese Oberteile waren oft reich verziert.
 3. **Hohe Krägen & Halskrausen**: Steife, hohe Krägen, oft aus Spitze und mit Draht verstärkt, waren ein charakteristisches Element der spanischen Mode. Diese Krägen, auch als "Golillas" bekannt, verliehen dem Träger eine imposante Erscheinung.
