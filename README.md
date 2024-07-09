@@ -138,9 +138,6 @@ Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Inst
 <img src='img/eleonoraheiratbild.png' class='noresize'>
 
 
-<img src='img/eleonoraheirattext.png' class='noresize'>
-
-
 ---
 
 
