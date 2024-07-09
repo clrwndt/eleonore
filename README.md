@@ -118,16 +118,19 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 [Bildquelle]()
 
 
-<img src='img/franzeleonoreeheleben.png' class='noresize'>
+<img src='img/franzeleonoreeheleben.png.png' class='noresize'>
 
 
 <img src='img/.png' class='noresize'>
 [Bildquelle](https://de.wikipedia.org/wiki/Franz_I._(Frankreich)#/media/Datei:FrancisIFrance.jpg)
 
 
-<img src='img/cosimo2.png' class='noresize'>
+<img src='img/cosimoeheleben.png' class='noresize'>
 
 [Bildquelle](https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici#/media/File:Agnolo_Bronzino_-_Cosimo_I_de'_Medici_in_armour_-_Google_Art_Project.jpg)
+
+
+<img src='img/cosimoeheleben2.png' class='noresize'>
 
 
 <img src='img/cosimoeleonoraeheleben2.png' class='noresize'>
