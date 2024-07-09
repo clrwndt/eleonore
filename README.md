@@ -144,7 +144,7 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 [Bildquelle]()
 
 
-<img src='img/franzeleonoreeheleben.png.png' class='noresize'>
+<img src='img/franzeleonoreeheleben.png' class='noresize'>
 
 
 <img src='img/.png' class='noresize'>
@@ -156,10 +156,8 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 [Bildquelle](https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici#/media/File:Agnolo_Bronzino_-_Cosimo_I_de'_Medici_in_armour_-_Google_Art_Project.jpg)
 
 
-<img src='img/cosimoeheleben2.png' class='noresize'>
+<img src='img/cosimoehelebentext2.png' class='noresize'>
 
-
-<img src='img/cosimoeleonoraeheleben2.png' class='noresize'>
 
 
 <img src='img/cosimoeleonora.png' class='noresize'>
@@ -167,7 +165,8 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 [Bildquelle](https://www.finestresullarte.info/de/werke-und-kunstler/die-eleganz-der-macht-bronzinos-portrat-der-eleonore-von-toledo)
 
 
-<img src='img/cosimoeleonoraeheleben.png' class='noresize'>
+<img src='img/cosimoeleonoraehelebentext.png' class='noresize'>
+
 
 
 ---
