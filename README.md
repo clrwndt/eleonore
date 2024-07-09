@@ -64,7 +64,6 @@ Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte z
 
 
 <img src='img/karl4.png' class='noresize'>
-
 [Bildquelle](https://de.wikipedia.org/wiki/Karl_V._%28HRR%29)
 
 
@@ -85,12 +84,10 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 
 
 <img src='img/toledoherkunft.png' class='noresize'>
-
 [Bildquelle]()
 
 
 <img src='img/austricheherkunft.png' class='noresize'>
-
 [Bildquelle]()
 
 
@@ -115,12 +112,10 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 
 
 <img src='img/' class='noresize'>
-
 [Bildquelle]()
 
 
 <img src='img/cosimo2.png' class='noresize'>
-
 [Bildquelle](https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici)
 
 
