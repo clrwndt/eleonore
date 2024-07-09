@@ -97,12 +97,12 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 [Bildquelle](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
 
 
+<img src='img/eleonoreherkunfttext.png' class='noresize'>
+
+
 <img src='img/eleonoreherkunftbild2.png' class='noresize'>
 
 [Bildquelle](https://www.habsburger.net/de/medien/kaiser-karl-v-zusammen-mit-seinen-schwestern-eleonore-und-isabella)
-
-
-<img src='img/eleonoreherkunfttext.png' class='noresize'>
 
 
 ---
