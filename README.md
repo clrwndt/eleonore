@@ -115,6 +115,21 @@ Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt
 Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Instrumente zur Stärkung von Macht, Einfluss und Sicherheit in einer Zeit, die von intensiven politischen und territorialen Konflikten geprägt war.
 
 
+<img src='img/eleonoreheirattext.png' class='noresize'>
+
+
+<img src='img/eleonoreheiratbild.png' class='noresize'>
+
+
+<img src='img/eleonoreheirattext2.png' class='noresize'>
+
+
+<img src='img/eleonoraheiratbild.png' class='noresize'>
+
+
+<img src='img/eleonoraheirattext.png' class='noresize'>
+
+
 ---
 
 
