@@ -144,7 +144,7 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 [Bildquelle]()
 
 
-<img src='img/franzeleonoreeheleben.png' class='noresize'>
+<img src='img/franzeleonoreehelebentext.png' class='noresize'>
 
 
 <img src='img/.png' class='noresize'>
