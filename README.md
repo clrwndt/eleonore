@@ -118,6 +118,9 @@ Frauen wie Eléonore und Eleonora wurden als Werkzeuge der Diplomatie eingesetzt
 Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Instrumente zur Stärkung von Macht, Einfluss und Sicherheit in einer Zeit, die von intensiven politischen und territorialen Konflikten geprägt war.
 
 
+<img src='img/franz.png' class='noresize'>
+
+
 <img src='img/eleonoreheirattext.png' class='noresize'>
 
 
@@ -125,6 +128,11 @@ Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Inst
 
 
 <img src='img/eleonoreheirattext2.png' class='noresize'>
+
+
+<img src='img/cosimoeheleben.png' class='noresize'>
+
+[Bildquelle](https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici#/media/File:Agnolo_Bronzino_-_Cosimo_I_de'_Medici_in_armour_-_Google_Art_Project.jpg)
 
 
 <img src='img/eleonoraheiratbild.png' class='noresize'>
@@ -149,11 +157,6 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 
 <img src='img/franzeleonoreehelebentext.png' class='noresize'>
 
-
-
-<img src='img/cosimoeheleben.png' class='noresize'>
-
-[Bildquelle](https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici#/media/File:Agnolo_Bronzino_-_Cosimo_I_de'_Medici_in_armour_-_Google_Art_Project.jpg)
 
 
 <img src='img/cosimoehelebentext2.png' class='noresize'>
