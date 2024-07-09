@@ -137,15 +137,6 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 ## „Moda alla spagnola“
 
 Insgesamt spielte die spanische Kleidung eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
-Typisch spanische Kleidungselemente im 16. Jahrhundert umfassten mehrere charakteristische Merkmale, die die Mode dieser Zeit prägten: 
-- **Hohe Kragen** (Gorgerinas)
-- **Weite Ärmel** (Farolitos)
-- **Verzierungen und Stickereien**
-- **Umhänge** (Capas)
-- **Schärpen und Gürtel** (Fajas und Tocados) 
-- **Verwendung von **Seide und Samt**
-  
-Diese Elemente zusammen verliehen der spanischen Mode eine unverwechselbare Eleganz und Pracht, die sie zu einem bedeutenden Einflussfaktor in der europäischen Mode dieser Zeit machte.
 
 
 <img src='img/elizabeth.jpg' class='noresize'>
