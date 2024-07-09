@@ -83,17 +83,26 @@ Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte z
 
 Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen. Sie wuchsen jedoch nicht in Spanien auf, sondern in einem der kaiserlichen Herrschaftsgebiete - Eleonora in Neapel und Eléonore in Flandern, wo die Hofkleidung der in Spanien ähnelte.
 
-<img src='img/herkunft.png' class='noresize'>
+
+<img src='img/eleonoraherkunftbild' class='noresize'>
+
+[Bildquelle](https://de.wikipedia.org/wiki/Eleonora_von_Toledo_%281522–1562%29#/media/Datei:Bronzino,_Agnolo_-_Eleonora_of_Toledo_-_National_Gallery_in_Prague.jpg)
 
 
-<img src='img/toledoherkunft.png' class='noresize'>
-
-[Bildquelle]()
+<img src='img/eleonoraherkunfttext' class='noresize'>
 
 
-<img src='img/austricheherkunft.png' class='noresize'>
+<img src='img/eleonoreherkunftbild' class='noresize'>
 
-[Bildquelle]()
+[Bildquelle](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
+
+
+<img src='img/eleonoreherkunftbild2' class='noresize'>
+
+[Bildquelle](https://www.habsburger.net/de/medien/kaiser-karl-v-zusammen-mit-seinen-schwestern-eleonore-und-isabella)
+
+
+<img src='img/eleonoreherkunfttext' class='noresize'>
 
 
 ---
