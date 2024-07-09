@@ -211,6 +211,14 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 - **Schmuck**: Schwere goldene Halsketten mit großen Edelsteinen wie Saphiren, Rubinen oder Smaragden waren besonders populär. Oft wurden diese Ketten zusätzlich mit Perlen oder kleineren Edelsteinen als Anhänger verziert.
 
 
+<img src='img/spanischekleidungeleonoreaermel.png' class='noresize'>
+
+[Bildquelle](https://commons.wikimedia.org/wiki/File:Joos_van_Cleve_-_Eleonore_of_Austria_-_Musée_Condé.jpg)
+
+
+<img src='img/spanischekleidungeleonoreaermel2.png' class='noresize'>
+
+
 <img src='img/aermel2.png' class='noresize'>
 
 [Abnehmbare Ärmel](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
@@ -237,6 +245,14 @@ Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di To
 
 
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
+
+
+<img src='img/spanischekleidungeleonore.png' class='noresize'>
+
+[Bildquelle](https://www.wikidata.org/wiki/Q56346244#/media/File:Cleve_Eleanor_of_Austria.jpg)
+
+
+<img src='img/spanischekleidungeleonore2.png' class='noresize'>
 
 
 <img src='img/muster.png' class='noresize'>
