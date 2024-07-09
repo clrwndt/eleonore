@@ -324,26 +324,21 @@ Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politisc
 
 ## Quellen
 
-*1 
-https://www.britannica.com/topic/history-of-France/France-1490-1715
+*1 https://www.britannica.com/topic/history-of-France/France-1490-1715
 
 *1.1 https://www.deutschlandfunk.de/vor-500-jahren-geboren-cosimo-i-de-medici-grossherzog-der-100.html
 
-*2 
-https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
+*2 https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
 
 *2.2 https://www.wissenschaft.de/magazin/weitere-themen/eine-liebe-in-florenz/
 
-*3 
-https://www.britannica.com/biography/Francis-I-king-of-France
+*3 https://www.britannica.com/biography/Francis-I-king-of-France
 
-*3.1https://de.wikipedia.org/wiki/Eleonora_von_Toledo_(1522–1562)#Eheleben_und_Nachkommen
+*3.1 https://de.wikipedia.org/wiki/Eleonora_von_Toledo_(1522–1562)#Eheleben_und_Nachkommen
 
-*4 
-https://www.britannica.com/topic/history-of-France/France-1490-1715
+*4 https://www.britannica.com/topic/history-of-France/France-1490-1715
 
-*5 
-https://www.britannica.com/place/Spain/Spain-in-1600
+*5 https://www.britannica.com/place/Spain/Spain-in-1600
 
 
 
