@@ -4,7 +4,6 @@
 
 Die Visualisierung konzentriert sich auf den Vergleich zwischen **Eleonora di Toledo** und **Eléonore d’Autriche** anhand ihrer beider Leben und Kleidungsstile. Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements. 
 
-
 <img src='img/einleitung.png' class='noresize'>
 
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextuelle Einordnung ihrer Zeit erfolgt systematisch anhand mehrerer Kategorien:
