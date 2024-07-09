@@ -3,9 +3,7 @@
 # Ein modisches Powerplay
 
 Die Visualisierung konzentriert sich auf den Vergleich zwischen **Eleonora di Toledo** und **Eléonore d’Autriche** anhand ihrer beider Leben und Kleidungsstile. Im Fokus steht dabei die spanische Kleidung als politisches Instrument. Beide Frauen verkörperten in ihrer jeweiligen Epoche nicht nur Mode, sondern auch politische und kulturelle Statements. 
-
 <img src='img/einleitung2.png' class='noresize'>
-
 Die Gegenüberstellung ihrer beider Leben und Kleidungsstile sowie eine kontextuelle Einordnung ihrer Zeit erfolgt systematisch anhand mehrerer Kategorien:
 
 [Einordnung](#einordnung),  [Karl V.](#karlv.),  [Herkunft](#herkunft),  [Heirat](#heirat),  [Eheleben](#eheleben),  [Politische Ziele](#politischeziele),  [Spanische Kleidung](#spanischekleidung),  [Französische Kleidung](#franzoesischekleidung),  [Einfluss auf Bevölkerung](#einflussaufbevoelkerung),  [Fazit](#fazit)
@@ -67,6 +65,9 @@ Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte z
 
 <img src='img/karl4.png' class='noresize'>
 
+[Bildquelle](https://de.wikipedia.org/wiki/Karl_V._%28HRR%29)
+
+
 
 <img src='img/karlwappen2.png' class='noresize'>
 
@@ -85,8 +86,12 @@ Eleonora di Toledo und Eléonore d'Autriche waren beide gebürtige Spanierinnen.
 
 <img src='img/toledoherkunft.png' class='noresize'>
 
+[Bildquelle]()
+
 
 <img src='img/austricheherkunft.png' class='noresize'>
+
+[Bildquelle]()
 
 
 ---
@@ -109,10 +114,14 @@ Die Frauen selbst hatten durch ihre Ehen direkten politischen Einfluss, indem si
 Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich deutlich aufgrund ihrer unterschiedlichen persönlichen und politischen Umstände.
 
 
-<img src='img/franz2.png' class='noresize'>
+<img src='img/' class='noresize'>
+
+[Bildquelle]()
 
 
 <img src='img/cosimo2.png' class='noresize'>
+
+[Bildquelle](https://en.wikipedia.org/wiki/Cosimo_I_de%27_Medici)
 
 
 ---
@@ -192,7 +201,7 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 
 <img src='img/tirasoberteil.png' class='noresize'>
 
-[Tiras](https://www.facebook.com/permalink.php/?story_fbid=274864053933734&id=105658324187642)
+[Tira](https://www.facebook.com/permalink.php/?story_fbid=274864053933734&id=105658324187642)
 
 
 <img src='img/zimarra.png' class='noresize'>
@@ -319,11 +328,17 @@ Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politisc
 *1 
 https://www.britannica.com/topic/history-of-France/France-1490-1715
 
+*1.1 https://www.deutschlandfunk.de/vor-500-jahren-geboren-cosimo-i-de-medici-grossherzog-der-100.html
+
 *2 
 https://www.habsburger.net/de/personen/habsburger-herrscher/karl-v
 
+*2.2 https://www.wissenschaft.de/magazin/weitere-themen/eine-liebe-in-florenz/
+
 *3 
 https://www.britannica.com/biography/Francis-I-king-of-France
+
+*3.1https://de.wikipedia.org/wiki/Eleonora_von_Toledo_(1522–1562)#Eheleben_und_Nachkommen
 
 *4 
 https://www.britannica.com/topic/history-of-France/France-1490-1715
