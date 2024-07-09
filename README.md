@@ -207,8 +207,8 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 
 ## Spanische Kleidungsstücke
 
-1. **Verdugado** (Farthingale): steifer Unterrock, der die charakteristische kegelförmige Silhouette des Rocks erzeugte.
-2. **Bodices & Korsetts**: Eng anliegende Oberteile, oft mit verstärkten Korsetts, formten eine schmale Taille und hoben die Brust hervor. Diese Oberteile waren oft reich verziert.
+1. **Verdugado**: steifer Unterrock, der die charakteristische kegelförmige Silhouette des Rocks erzeugte.
+2. **Bodices & Korsetts** (Tiras): Eng anliegende Oberteile, oft mit verstärkten Korsetts, formten eine schmale Taille und hoben die Brust hervor. Diese Oberteile waren oft reich verziert.
 3. **Hohe Krägen & Halskrausen**: Steife, hohe Krägen, oft aus Spitze und mit Draht verstärkt, waren ein charakteristisches Element der spanischen Mode. Diese Krägen, auch als "Golillas" bekannt, verliehen dem Träger eine imposante Erscheinung.
 4. **Ärmel**: Die Ärmel waren oft abnehmbar und konnten separat gestaltet werden. Sie waren häufig gepufft, geschlitzt oder mit Stickereien und Schmuck verziert. Abnehmbare Ärmel ermöglichten es, verschiedene
 5. **Gürtel und Schärpen**: Schmale, oft reich verzierte Gürtel und Schärpen betonten die Taille und wurden über Kleidern getragen. Sie konnten aus Seide, Samt oder sogar Metall gefertigt sein.
@@ -219,6 +219,11 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 <img src='img/aermel2.png' class='noresize'>
 
 [Abnehmbare Ärmel](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
+
+
+<img src='img/tirasoberteil.png' class='noresize'>
+
+[Tiras](https://www.facebook.com/permalink.php/?story_fbid=274864053933734&id=105658324187642)
 
 
 <img src='img/zimarra.png' class='noresize'>
