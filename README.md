@@ -147,9 +147,6 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 <img src='img/franzeleonoreehelebentext.png' class='noresize'>
 
 
-<img src='img/.png' class='noresize'>
-[Bildquelle](https://de.wikipedia.org/wiki/Franz_I._(Frankreich)#/media/Datei:FrancisIFrance.jpg)
-
 
 <img src='img/cosimoeheleben.png' class='noresize'>
 
@@ -166,6 +163,9 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 
 
 <img src='img/cosimoeleonoraehelebentext.png' class='noresize'>
+
+
+<img src='img/cosimoeleonoraehelebentext2.png' class='noresize'>
 
 
 
