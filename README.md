@@ -63,10 +63,12 @@ Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte z
 [Herrschaftsgebiet Karl V.](https://www.dhm.de/mediathek/kaiser-karl-v/wappentafel/item/showDetail/Topic/?tx_dhm_topic%5BcategoryItem%5D=6002&cHash=4c606d5f1bc795b4e6d34fa2786bd5f7)
 
 
-<img src='img/karl4.png' class='noresize'>
+<img src='img/karlbild.png' class='noresize'>
 
 [Bildquelle](https://de.wikipedia.org/wiki/Karl_V._%28HRR%29)
 
+
+<img src='img/karltext.png' class='noresize'>
 
 
 <img src='img/karlwappen2.png' class='noresize'>
