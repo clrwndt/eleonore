@@ -165,9 +165,6 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 <img src='img/cosimoeleonoraehelebentext.png' class='noresize'>
 
 
-<img src='img/cosimoeleonoraehelebentext2.png' class='noresize'>
-
-
 
 ---
 
@@ -183,6 +180,13 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 <img src='img/karlkriege.jpg' class='noresize'>
 
 [Titian, *Kaiser Karl V. nach der Schlacht bei Mühlberg*, 1548](https://de.wikipedia.org/wiki/Kaiser_Karl_V._nach_der_Schlacht_bei_Mühlberg#/media/Datei:Carlos_V_en_Mühlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg)
+
+
+<img src='img/cosimoeleonoraehelebentext2.png' class='noresize'>
+
+
+<img src='img/eleonoreploitischeziele.png' class='noresize'>
+
 
 
 ---
