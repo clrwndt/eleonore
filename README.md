@@ -121,6 +121,9 @@ Ehen und Heiraten zur damaligen Zeit waren daher entscheidende strategische Inst
 <img src='img/franz.png' class='noresize'>
 
 
+<img src='img/franztext.png' class='noresize'>
+
+
 <img src='img/eleonoreheirattext.png' class='noresize'>
 
 
@@ -163,8 +166,10 @@ Das Eheleben von Eléonore d’Autriche und Eleonora di Toledo unterschied sich 
 [Bildquelle](https://www.finestresullarte.info/de/werke-und-kunstler/die-eleganz-der-macht-bronzinos-portrat-der-eleonore-von-toledo)
 
 
-<img src='img/cosimoeleonoraehelebentext.png' class='noresize'>
+<img src='img/cosimoeleonoraehelebentext2.png' class='noresize'>
 
+
+<img src='img/eleonoraehelebentext.png' class='noresize'>
 
 
 ---
@@ -183,7 +188,7 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 [Titian, *Kaiser Karl V. nach der Schlacht bei Mühlberg*, 1548](https://de.wikipedia.org/wiki/Kaiser_Karl_V._nach_der_Schlacht_bei_Mühlberg#/media/Datei:Carlos_V_en_Mühlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg)
 
 
-<img src='img/cosimoeleonoraehelebentext2.png' class='noresize'>
+<img src='img/cosimoeleonoraehelebentext.png' class='noresize'>
 
 
 <img src='img/eleonoreploitischeziele.png' class='noresize'>
