@@ -77,6 +77,31 @@ body {
 	transition: opacity 0.25s ease, background-color 0.25s ease;
 }
 
+enlarged {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 90%;
+    max-height: 90%;
+    z-index: 1000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    cursor: zoom-out;
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #app.overlay .content, #app.overlay canvas, #app.overlay .cursor {
   opacity: 0;
   pointer-events: none;
@@ -93,6 +118,20 @@ body {
 
 .content > figure > img.noresize {
     cursor: unset;
+}
+
+#app.overlay .content.enlarged, #app.overlay .content.enlarged a {
+    opacity: 1;
+    color: var(--background);
+    background-color: var(--background);
+}
+
+
+
+#app.overlay .enlarged img {
+    z-index: 1000; 
+    pointer-events: auto;
+    cursor: zoom-out;
 }
 
 #app.overlay .content.enlarged, #app.overlay .content.enlarged a {
