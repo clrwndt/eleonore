@@ -244,6 +244,9 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 - **Schmuck**: Schwere goldene Halsketten mit großen Edelsteinen wie Saphiren, Rubinen oder Smaragden waren besonders populär. Oft wurden diese Ketten zusätzlich mit Perlen oder kleineren Edelsteinen als Anhänger verziert.
 
 
+Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
+
+
 <img src='img/spanischekleidungeleonoreaermel.png' class='noresize'>
 
 [Bildquelle](https://commons.wikimedia.org/wiki/File:Joos_van_Cleve_-_Eleonore_of_Austria_-_Musée_Condé.jpg)
@@ -275,9 +278,6 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di Toledo und Eléonore d’Autriche, zeichnete sich durch luxuriöse Stoffe und kunstvolle Verzierungen aus.
 
 **Brokat**, ein schwerer Stoff mit eingewebten Gold- oder Silberfäden (**Tiras**), war für festliche Kleidung beliebt. **Taft**, bekannt für seine glänzende Oberfläche, gab Kleidern Struktur und Volumen. **Samt**, mit seinem weichen Flor, war für Kleidung und Umhänge geschätzt. **Seide** in glatten und gemusterten Varianten spielte eine zentrale Rolle. **Damast**, ein gemusterter Seidenstoff, fand ebenfalls breite Verwendung. Vor allem waren **Blumenmuster** sehr beliebt und wurden oft stilisiert und symmetrisch angeordnet. Rosen, Lilien und Granatäpfel waren häufige Motive. Zusätzlich wurden viele Stoffe mit aufwendigen Stickereien aus Gold- und Silberfäden, Perlen und Edelsteinen verziert. **Spitze**, die im 16. Jahrhundert populär wurde, schmückte Kragen und Ärmel. 
-
-
-Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
 
 
 <img src='img/spanischekleidungeleonore.png' class='noresize'>
