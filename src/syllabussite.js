@@ -106,7 +106,7 @@ function updateSession(session) {
 			session.padding + //height of the session padding-top
 			item.margin  //margin to the top
 		item.domObject.style.top = item.y + "px";
-		item.domObject.style.transform = translate(${item.varianz}px,0)
+		item.domObject.style.transform = `translate(${item.varianz}px,0)`
 	});
 }
 function updateItem(item, session) {
@@ -158,6 +158,36 @@ function setHTML(session, anchors, cursors) {
 	cursor.style.top = window.outerHeight + "px";
 	cursors.appendChild(cursor);
 	session.cursor = cursor;
+
+	<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Function to create an overlay for the enlarged image
+    function createOverlay(image) {
+        const overlay = document.createElement('div');
+        overlay.classList.add('overlay');
+
+        const enlargedImg = document.createElement('img');
+        enlargedImg.src = image.src;
+        enlargedImg.classList.add('enlarged');
+
+        overlay.appendChild(enlargedImg);
+        document.body.appendChild(overlay);
+
+        // Add event listener to remove the overlay on click
+        overlay.addEventListener('click', function() {
+            document.body.removeChild(overlay);
+        });
+    }
+
+    // Get all images and add click event listeners to them
+    const images = document.querySelectorAll('.content > figure > img');
+    images.forEach(image => {
+        image.addEventListener('click', function() {
+            createOverlay(image);
+        });
+    });
+});
+</script>
 }
 // NAVIGATION
 document.onkeyup = function (e) {
@@ -221,7 +251,7 @@ function updateCursor(session, sessionProgress) {
 	let cursorPosition = session.index === 0
 		? (window.outerHeight * 0.25) - (sessionProgress * (window.outerHeight * 0.25)) - (sessionProgress * (cursorDimensions.height))
 		: window.outerHeight - (sessionProgress * window.outerHeight) - (sessionProgress * (cursorDimensions.height))
-	session.cursor.style.top = ${cursorPosition}px;
+	session.cursor.style.top = `${cursorPosition}px`;
 	return [cursorPosition, cursorDimensions.height];
 }
 function updateLinks(items) {
@@ -349,7 +379,7 @@ function enhanceMarkdown() {
 				const scale = Math.min(maxScaleX, maxScaleY, maxScaleNatural);
 
 				// Apply the transform
-				this.style.transform = translate(${offsetX}px, ${offsetY}px) scale(${scale});
+				this.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`;
 
 				content.classList.add('enlarged');
 				app.classList.add('overlay');
