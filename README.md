@@ -247,11 +247,6 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
 
 
-<img src='img/spanischekleidungeleonoreaermel.png' class='noresize'>
-
-[Bildquelle](https://commons.wikimedia.org/wiki/File:Joos_van_Cleve_-_Eleonore_of_Austria_-_Musée_Condé.jpg)
-
-
 <img src='img/spanischekleidungeleonoreaermel2.png' class='noresize'>
 
 
@@ -263,6 +258,9 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 <img src='img/tirasoberteil.png' class='noresize'>
 
 [Tira](https://www.facebook.com/permalink.php/?story_fbid=274864053933734&id=105658324187642)
+
+
+<img src='img/eleonoraspanischekleidungtext.png' class='noresize'>
 
 
 <img src='img/zimarra.png' class='noresize'>
@@ -304,6 +302,7 @@ Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di To
 <img src='img/eleonorastoffe.png' class='noresize'>
 
 [Bildquelle](https://de.wikipedia.org/wiki/Eleonora_von_Toledo_%281522–1562%29#/media/Datei:Bronzino,_Agnolo_-_Eleonora_of_Toledo_-_National_Gallery_in_Prague.jpg)
+
 
 ---
 
