@@ -420,7 +420,7 @@ Diese Visualisierung wurde kuratiert und gestaltet von Annalena Nerea Abramczik 
 **Erstellungsdatum**: Juli 2024
 
 
-**Kurs**: Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert SoSe 2024
+**Kurs**: Argumentation im Bild und über das Bild: Europäische Bild- und Kleidergeschichte visualisiert
 
 
 **Betreuung**: Sabine de Günther
