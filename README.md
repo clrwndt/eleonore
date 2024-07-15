@@ -383,7 +383,12 @@ Zusammenfassend lässt sich sagen, dass die spanische Kleidung beider Eléonores
 Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politischen Allianzen und Machtstrukturen ihrer Zeit sichtbar machte.
 
 
+<img src='img/eleonorefazittext.png' class='noresize'>
 
+
+<img src='img/eleonorealt' class='noresize'>
+
+[Frans Pourbus der Jüngere, Erzherzogin Eleonore, um 1603, Kunsthistorisches Museum, Wien](https://de.wikipedia.org/wiki/Eleonore_von_Österreich_%281582–1620%29#/media/Datei:Eleonor_of_Austria_by_F.Pourbus_Jr._(c._1603,_Kunsthistorisches_Museum).jpg) 
 
 
 ---
@@ -414,7 +419,7 @@ Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politisc
 
 ## Credits
 
-Diese Visualisierung wurde kuratiert und gestaltet von Annalena Nerea Abramczik und Clara Wendt
+Diese Visualisierung wurde kuratiert und gestaltet von Annalena Nerea Abramczik und Clara Wendt.
 
 
 **Erstellungsdatum**: Juli 2024
