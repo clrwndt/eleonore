@@ -82,18 +82,17 @@ body {
   pointer-events: none;
 }
 
+.content > figure > img {
+    transition: transform 0.5s ease;
+    cursor: zoom-in; 
+}
+
 .content > a > img {
     cursor: pointer; 
 }
 
 .content > figure > img.noresize {
     cursor: unset;
-}
-
-#app.overlay .content.enlarged, #app.overlay .content.enlarged a {
-    opacity: 1;
-    color: var(--background);
-    background-color: var(--background);
 }
 
 #app.overlay .content.enlarged, #app.overlay .content.enlarged a {
