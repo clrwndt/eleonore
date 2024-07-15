@@ -391,6 +391,14 @@ Die Wahl der Kleidung war somit eine strategische Entscheidung, die die politisc
 [Frans Pourbus der Jüngere, Erzherzogin Eleonore, um 1603, Kunsthistorisches Museum, Wien](https://de.wikipedia.org/wiki/Eleonore_von_Österreich_%281582–1620%29#/media/Datei:Eleonor_of_Austria_by_F.Pourbus_Jr._(c._1603,_Kunsthistorisches_Museum).jpg) 
 
 
+<img src='img/eleonorafazittext.png' class='noresize'>
+
+
+<img src='img/eleonoraalt.jpeg' class='noresize'>
+
+[Agnolo Bronzino, Eleonora di Toledo, um 1560, National Gallery of Art, Washington DC](https://de.wikipedia.org/wiki/Datei:Bronzino_-_Eleonora_di_Toledo_-_National_Gallery_of_Art.jpg) 
+
+
 ---
 
 
