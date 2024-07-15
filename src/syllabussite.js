@@ -158,36 +158,6 @@ function setHTML(session, anchors, cursors) {
 	cursor.style.top = window.outerHeight + "px";
 	cursors.appendChild(cursor);
 	session.cursor = cursor;
-
-	<script>
-document.addEventListener('DOMContentLoaded', function() {
-    // Function to create an overlay for the enlarged image
-    function createOverlay(image) {
-        const overlay = document.createElement('div');
-        overlay.classList.add('overlay');
-
-        const enlargedImg = document.createElement('img');
-        enlargedImg.src = image.src;
-        enlargedImg.classList.add('enlarged');
-
-        overlay.appendChild(enlargedImg);
-        document.body.appendChild(overlay);
-
-        // Add event listener to remove the overlay on click
-        overlay.addEventListener('click', function() {
-            document.body.removeChild(overlay);
-        });
-    }
-
-    // Get all images and add click event listeners to them
-    const images = document.querySelectorAll('.content > figure > img');
-    images.forEach(image => {
-        image.addEventListener('click', function() {
-            createOverlay(image);
-        });
-    });
-});
-</script>
 }
 // NAVIGATION
 document.onkeyup = function (e) {
