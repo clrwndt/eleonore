@@ -106,7 +106,7 @@ function updateSession(session) {
 			session.padding + //height of the session padding-top
 			item.margin  //margin to the top
 		item.domObject.style.top = item.y + "px";
-		item.domObject.style.transform = `translate(${item.varianz}px,0)`
+		item.domObject.style.transform = translate(${item.varianz}px,0)
 	});
 }
 function updateItem(item, session) {
@@ -221,7 +221,7 @@ function updateCursor(session, sessionProgress) {
 	let cursorPosition = session.index === 0
 		? (window.outerHeight * 0.25) - (sessionProgress * (window.outerHeight * 0.25)) - (sessionProgress * (cursorDimensions.height))
 		: window.outerHeight - (sessionProgress * window.outerHeight) - (sessionProgress * (cursorDimensions.height))
-	session.cursor.style.top = `${cursorPosition}px`;
+	session.cursor.style.top = ${cursorPosition}px;
 	return [cursorPosition, cursorDimensions.height];
 }
 function updateLinks(items) {
@@ -349,7 +349,7 @@ function enhanceMarkdown() {
 				const scale = Math.min(maxScaleX, maxScaleY, maxScaleNatural);
 
 				// Apply the transform
-				this.style.transform = `translate(${offsetX}px, ${offsetY}px) scale(${scale})`;
+				this.style.transform = translate(${offsetX}px, ${offsetY}px) scale(${scale});
 
 				content.classList.add('enlarged');
 				app.classList.add('overlay');
