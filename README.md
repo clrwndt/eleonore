@@ -342,6 +342,12 @@ Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gek
 [Unbekannter französischer Künstler, *Claude de France mit ihren Töchtern, sowie ihrer Schwester und Eléonore d’Autriche (hinten links)*, 1528](https://de.wikipedia.org/wiki/Claude_de_France#/media/Datei:Claude_de_France_(1499-1524).jpg)
 
 
+<img src='img/eleonorefranzoesichekleidung.png' class='noresize'>
+
+
+<img src='img/eleonorefranzoesichekleidungtext.png' class='noresize'>
+
+
 <img src='img/haube2.png' class='noresize'>
 
 [Haube](https://commons.wikimedia.org/wiki/File:Léonard_Limosin_-_Éléonore_d%27Autriche_-_Musée_de_la_Renaissance.jpg)
