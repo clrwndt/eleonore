@@ -317,6 +317,12 @@ Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mi
 [Federhaube](https://fr.m.wikipedia.org/wiki/Fichier:François_I_with_Eleanor,_Queen_of_France_-_Royal_Collection.jpg)
 
 
+<img src='img/eleonorefrisur.png' class='noresize'>
+
+
+<img src='img/eleonorafrisur.png' class='noresize'>
+
+
 <img src='img/haarnetz.png' class='noresize'>
 
 [Goldenes Haarnetz](https://de.wikipedia.org/wiki/Eleonora_von_Toledo_%281522–1562%29#/media/Datei:Bronzino,_Agnolo_-_Eleonora_of_Toledo_-_National_Gallery_in_Prague.jpg)
