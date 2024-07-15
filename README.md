@@ -298,6 +298,13 @@ Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di To
 [Stickereien](https://de.wikipedia.org/wiki/Eleonora_von_Toledo_%281522–1562%29#/media/Datei:Bronzino,_Agnolo_-_Eleonora_of_Toledo_-_National_Gallery_in_Prague.jpg)
 
 
+<img src='img/eleonorastoffetext.png' class='noresize'>
+
+
+<img src='img/eleonorastoffe.png' class='noresize'>
+
+[Bildquelle](https://de.wikipedia.org/wiki/Eleonora_von_Toledo_%281522–1562%29#/media/Datei:Bronzino,_Agnolo_-_Eleonora_of_Toledo_-_National_Gallery_in_Prague.jpg)
+
 ---
 
 
