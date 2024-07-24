@@ -204,6 +204,45 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 ---
 
 
+## Spanische Kleidungsstücke
+
+- **Verdugado**: steifer Unterrock, der die charakteristische kegelförmige Silhouette des Rocks erzeugte.
+- **Mieder & Korsetts** (Tiras): Eng anliegende Oberteile, oft mit verstärkten Korsetts, formten eine schmale Taille und hoben die Brust hervor. Diese Oberteile waren oft reich verziert.
+- **Hohe Krägen & Halskrausen**: Steife, hohe Krägen, oft aus Spitze und mit Draht verstärkt, waren ein charakteristisches Element der spanischen Mode. Diese Krägen, auch als "Golillas" bekannt, verliehen dem Träger eine imposante Erscheinung.
+- **Ärmel**: Die Ärmel waren oft abnehmbar und konnten separat gestaltet werden. Sie waren häufig gepufft, geschlitzt oder mit Stickereien und Schmuck verziert. 
+- **Gürtel und Schärpen**: Schmale, oft reich verzierte Gürtel und Schärpen betonten die Taille und wurden über Kleidern getragen. Sie konnten aus Seide, Samt oder sogar Metall gefertigt sein.
+- **Zimarras**: Mäntel und Umhänge aus luxuriösen Stoffen wie Samt oder Brokat, oft mit Pelz gefüttert oder besetzt, waren sowohl ein modisches Statement als auch ein Schutz gegen das Wetter.
+- **Schmuck**: Schwere goldene Halsketten mit großen Edelsteinen wie Saphiren, Rubinen oder Smaragden waren besonders populär. Oft wurden diese Ketten zusätzlich mit Perlen oder kleineren Edelsteinen als Anhänger verziert.
+
+
+Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
+
+
+<img src='img/spanischekleidungeleonoreaermel2.png' class='noresize'>
+
+
+<img src='img/aermel2.png' class='noresize'>
+
+[Abnehmbare Ärmel](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
+
+
+<img src='img/tirasoberteil.png' class='noresize'>
+
+[Tira](https://www.facebook.com/permalink.php/?story_fbid=274864053933734&id=105658324187642)
+
+
+<img src='img/eleonoraspanischekleidungtext.png' class='noresize'>
+
+
+<img src='img/zimarra.png' class='noresize'>
+
+[Zimarra](https://commons.wikimedia.org/wiki/File:Ritratto_di_Eleonora_di_Toledo.jpg)
+
+
+
+---
+
+
 ## „Moda alla spagnola“
 
 Insgesamt spielte die spanische Kleidung eine zentrale Rolle in der Darstellung von Macht, Status und kultureller Raffinesse an den Höfen Europas. Sie war nicht nur Ausdruck individuellen Geschmacks, sondern auch ein wichtiges Mittel zur Kommunikation politischer und kultureller Botschaften in einer Zeit intensiver politischer und religiöser Konflikte.
@@ -239,44 +278,6 @@ Diese Orte spiegeln die weitreichende politische, kulturelle und koloniale Macht
 
 [François Clouet, *König Karl IX. von Frankreich*, 1569](https://www.khm.at/objektdb/detail/494/)
 
-
-
----
-
-
-## Spanische Kleidungsstücke
-
-- **Verdugado**: steifer Unterrock, der die charakteristische kegelförmige Silhouette des Rocks erzeugte.
-- **Bodices & Korsetts** (Tiras): Eng anliegende Oberteile, oft mit verstärkten Korsetts, formten eine schmale Taille und hoben die Brust hervor. Diese Oberteile waren oft reich verziert.
-- **Hohe Krägen & Halskrausen**: Steife, hohe Krägen, oft aus Spitze und mit Draht verstärkt, waren ein charakteristisches Element der spanischen Mode. Diese Krägen, auch als "Golillas" bekannt, verliehen dem Träger eine imposante Erscheinung.
-- **Ärmel**: Die Ärmel waren oft abnehmbar und konnten separat gestaltet werden. Sie waren häufig gepufft, geschlitzt oder mit Stickereien und Schmuck verziert. 
-- **Gürtel und Schärpen**: Schmale, oft reich verzierte Gürtel und Schärpen betonten die Taille und wurden über Kleidern getragen. Sie konnten aus Seide, Samt oder sogar Metall gefertigt sein.
-- **Zimarras**: Mäntel und Umhänge aus luxuriösen Stoffen wie Samt oder Brokat, oft mit Pelz gefüttert oder besetzt, waren sowohl ein modisches Statement als auch ein Schutz gegen das Wetter.
-- **Schmuck**: Schwere goldene Halsketten mit großen Edelsteinen wie Saphiren, Rubinen oder Smaragden waren besonders populär. Oft wurden diese Ketten zusätzlich mit Perlen oder kleineren Edelsteinen als Anhänger verziert.
-
-
-Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
-
-
-<img src='img/spanischekleidungeleonoreaermel2.png' class='noresize'>
-
-
-<img src='img/aermel2.png' class='noresize'>
-
-[Abnehmbare Ärmel](https://www.khm.at/objektdb/detail/485/?offset=0&lv=list)
-
-
-<img src='img/tirasoberteil.png' class='noresize'>
-
-[Tira](https://www.facebook.com/permalink.php/?story_fbid=274864053933734&id=105658324187642)
-
-
-<img src='img/eleonoraspanischekleidungtext.png' class='noresize'>
-
-
-<img src='img/zimarra.png' class='noresize'>
-
-[Zimarra](https://commons.wikimedia.org/wiki/File:Ritratto_di_Eleonora_di_Toledo.jpg)
 
 
 ---
@@ -412,7 +413,7 @@ Die spanische Mode prägte nicht nur die adeligen Höfe, sondern auch die bürge
 
 ## Fazit
 
-Beide Eleonoras trugen spanische Kleidung, um ihre Loyalität und Identität zum Kaisertum zu behaupten, aber politisch repräsentierten sie entgegengesetzte Seiten der Medaille.
+Beide Protagonistinnen trugen spanische Kleidung, um ihre Loyalität und Identität zum Kaisertum zu behaupten, aber politisch repräsentierten sie entgegengesetzte Seiten der Medaille.
 
 Die Beziehungen zu ihren Ehemännern spielten dabei eine zentrale Rolle.
 Während Eléonore von Habsburg ihre spanische Kleidung als Symbol ihrer kaiserlichen Herkunft und ihrer komplexen politischen Rolle zwischen Frankreich und dem Heiligen Römischen Reich trug, nutzte Eleonora di Toledo die gleiche Mode, um die Bindung ihres Ehemanns an den Kaiser und dessen Ambitionen zu unterstreichen.
