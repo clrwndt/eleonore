@@ -225,7 +225,7 @@ Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Ele
 
 <img src='img/tirasoberteil.png' class='noresize'>
 
-[Tira](https://www.facebook.com/permalink.php/?story_fbid=274864053933734&id=105658324187642)
+[Tira](http://theclosethistorian.blogspot.com/2014/08/closet-histories-11-funeral-dress-of.html)
 
 
 <img src='img/eleonoraspanischekleidungtext.png' class='noresize'>
