@@ -352,8 +352,8 @@ Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mi
 Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gekennzeichnet. Zentrale Elemente der Kleidung waren: 
 - der **Hennin**, eine hohe, konische Kopfbedeckung, oft mit einem Schleier versehen  
 - eine **Houppelande**, ein weites, bodenlanges Gewand mit breiten Ärmeln, das reich verziert und häufig mit Pelz besetzt war
-- einen ***Surcot***, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
-- das ***Sideless Gown***, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
+- einen ***„Surcot“***, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
+- das ***„Sideless Gown“***, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
 - eine **Haube**, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
 - ein tiefes, quadratisches oder rundes **Dekolleté**, das bei höfischen Anlässen zur Schau gestellt wurde*4
 
