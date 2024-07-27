@@ -54,9 +54,9 @@ Beide Frauen  trugen die spanische Mode als Teil ihres öffentlichen Auftrittes 
 
 ## Karl V.
 
-An den europäischen Höfen wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden, und ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung. 
+An den europäischen Höfen wurde Kleidung häufig genutzt, um die politische Loyalität des Trägers zu bekunden. Ausländische Stile erlangten auf der politischen Bühne Europas große Bedeutung.
 
-Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.*2
+Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an kurzweilige politische Allianzen gebunden blieben, gab es andere die tief verwurzelt und von langer Dauer waren.*2
 
 <img src='img/kaiserkarl.jpg' class='noresize'>
 
@@ -321,7 +321,7 @@ Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di To
 Die Frisuren und der Haarschmuck von Eleonora di Toledo und Eléonore d’Autriche waren durch luxuriöse und kunstvolle Gestaltung geprägt. 
 
 Typisch spanische Frisuren beinhalteten lange Haare, die oft bis zu den Fersen reichten und in aufwendigen Zöpfen geflochten wurden. Eine markante Frisur war der ***„Tanzado“***, ein langer Zopf, der in einer Hülle aus Stoff oder Netz gehalten und mit Bändern verziert wurde.
-Der Haarschmuck war zur damaligen Zeit war sehr opulent. Goldene Verzierungen und **Haarnetze** in Form feinen Goldfäden waren weit verbreitet. 
+Der Haarschmuck war zur damaligen Zeit sehr opulent. Goldene Verzierungen und **Haarnetze** in Form feinen Goldfäden waren weit verbreitet. 
 Perlen wurden oft in die Frisur integriert oder in das Haar eingeflochten. Ein weiteres auffälliges Element waren **Federn**, die als Teil von **Hauben** oder Kopfbedeckungen verwendet wurden. 
 
 Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mit Gold- und Perlenverzierungen. Eléonore d’Autriche ist bekannt für eine karmesinrote Samthaube mit einem weißen Federbusch, was den luxuriösen Haarschmuck dieser Zeit unterstreicht.
@@ -352,8 +352,8 @@ Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mi
 Typische französische Frauenkleidung um 1500 war durch Eleganz und Reichtum gekennzeichnet. Zentrale Elemente der Kleidung waren: 
 - der **Hennin**, eine hohe, konische Kopfbedeckung, oft mit einem Schleier versehen  
 - eine **Houppelande**, ein weites, bodenlanges Gewand mit breiten Ärmeln, das reich verziert und häufig mit Pelz besetzt war
-- einen **Surcot**, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
-- das **Sideless Gown**, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
+- einen ***Surcot***, der oft ärmellos war und durch Schlitze an den Seiten das darunterliegende Kleid sichtbar machte
+- das ***Sideless Gown***, ein Kleidungsstück ohne Seiten, das über einem anderen Kleid getragen wurde und oft reich bestickt war Unter dem Hennin
 - eine **Haube**, eine eng anliegende Kopfbedeckung, die ebenfalls oft verziert war 
 - ein tiefes, quadratisches oder rundes **Dekolleté**, das bei höfischen Anlässen zur Schau gestellt wurde*4
 
