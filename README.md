@@ -203,13 +203,13 @@ Diplomatische Allianzen und Heiraten, wie die von Eléonore d’Autriche und Fra
 
 ## Spanische Kleidungsstücke
 
-- *„Verdugado“*: steifer Unterrock, der die charakteristische kegelförmige Silhouette des Rocks erzeugte.
+- ***„Verdugado“***: steifer Unterrock, der die charakteristische kegelförmige Silhouette des Rocks erzeugte.
 - Mieder & Korsetts: Eng anliegende Oberteile, oft mit verstärkten Korsetts, formten eine schmale Taille und hoben die Brust hervor. Diese Oberteile waren oft reich verziert.
-- Hohe Krägen & Halskrausen: Steife, hohe Krägen, oft aus Spitze und mit Draht verstärkt, waren ein charakteristisches Element der spanischen Mode. Diese Krägen, auch als *"Golillas"* bekannt, verliehen dem Träger eine imposante Erscheinung.
-- Ärmel**: Die Ärmel waren oft abnehmbar und konnten separat gestaltet werden. Sie waren häufig gepufft, geschlitzt oder mit Stickereien und Schmuck verziert. 
-- Gürtel und Schärpen: Schmale, oft reich verzierte Gürtel und Schärpen betonten die Taille und wurden über Kleidern getragen. Sie konnten aus Seide, Samt oder sogar Metall gefertigt sein.
-- *„Zimarras“*: Mäntel und Umhänge aus luxuriösen Stoffen wie Samt oder Brokat, oft mit Pelz gefüttert oder besetzt, waren sowohl ein modisches Statement als auch ein Schutz gegen das Wetter.
-- Schmuck: Schwere goldene Halsketten mit großen Edelsteinen wie Saphiren, Rubinen oder Smaragden waren besonders populär. Oft wurden diese Ketten zusätzlich mit Perlen oder kleineren Edelsteinen als Anhänger verziert.
+- **Hohe Krägen & Halskrausen**: Steife, hohe Krägen, oft aus Spitze und mit Draht verstärkt, waren ein charakteristisches Element der spanischen Mode. Diese Krägen, auch als ***"Golillas"*** bekannt, verliehen dem Träger eine imposante Erscheinung.
+- **Ärmel**: Die Ärmel waren oft abnehmbar und konnten separat gestaltet werden. Sie waren häufig gepufft, geschlitzt oder mit Stickereien und Schmuck verziert. 
+- **Gürtel und Schärpen**: Schmale, oft reich verzierte Gürtel und Schärpen betonten die Taille und wurden über Kleidern getragen. Sie konnten aus Seide, Samt oder sogar Metall gefertigt sein.
+- ***„Zimarras“***: Mäntel und Umhänge aus luxuriösen Stoffen wie Samt oder Brokat, oft mit Pelz gefüttert oder besetzt, waren sowohl ein modisches Statement als auch ein Schutz gegen das Wetter.
+- **Schmuck**: Schwere goldene Halsketten mit großen Edelsteinen wie Saphiren, Rubinen oder Smaragden waren besonders populär. Oft wurden diese Ketten zusätzlich mit Perlen oder kleineren Edelsteinen als Anhänger verziert.
 
 
 Im folgenden Teil der Visualisierung wird konkret auf den Vergleich zwischen Eleonora di Toledo und Eléonore d’Autriche anhand ihrer spanischen Kleidung eingegangen.
@@ -320,9 +320,9 @@ Die Mode des 16. Jahrhunderts, insbesondere bei adligen Damen wie Eleonora di To
 
 Die Frisuren und der Haarschmuck von Eleonora di Toledo und Eléonore d’Autriche waren durch luxuriöse und kunstvolle Gestaltung geprägt. 
 
-Typisch spanische Frisuren beinhalteten lange Haare, die oft bis zu den Fersen reichten und in aufwendigen Zöpfen geflochten wurden. Eine markante Frisur war der *„Tanzado“*, ein langer Zopf, der in einer Hülle aus Stoff oder Netz gehalten und mit Bändern verziert wurde.
-Der Haarschmuck war zur damaligen Zeit war sehr opulent. Goldene Verzierungen und Haarnetze in Form feinen Goldfäden waren weit verbreitet. 
-Perlen wurden oft in die Frisur integriert oder in das Haar eingeflochten. Ein weiteres auffälliges Element waren Federn*, die als Teil von Hauben oder Kopfbedeckungen verwendet wurden. 
+Typisch spanische Frisuren beinhalteten lange Haare, die oft bis zu den Fersen reichten und in aufwendigen Zöpfen geflochten wurden. Eine markante Frisur war der ***„Tanzado“***, ein langer Zopf, der in einer Hülle aus Stoff oder Netz gehalten und mit Bändern verziert wurde.
+Der Haarschmuck war zur damaligen Zeit war sehr opulent. Goldene Verzierungen und **Haarnetze** in Form feinen Goldfäden waren weit verbreitet. 
+Perlen wurden oft in die Frisur integriert oder in das Haar eingeflochten. Ein weiteres auffälliges Element waren **Federn**, die als Teil von **Hauben** oder Kopfbedeckungen verwendet wurden. 
 
 Eleonora di Toledo trug beispielsweise häufig aufwendig geflochtene Frisuren mit Gold- und Perlenverzierungen. Eléonore d’Autriche ist bekannt für eine karmesinrote Samthaube mit einem weißen Federbusch, was den luxuriösen Haarschmuck dieser Zeit unterstreicht.
 
