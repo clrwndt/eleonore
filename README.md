@@ -58,7 +58,7 @@ An den europäischen Höfen wurde Kleidung häufig genutzt, um die politische Lo
 
 Die politische und militärische Dominanz von Kaiser Karl V. nach 1520 führte zu einer weit verbreiteten Übernahme der spanischen Hofkleidung in Europa. Diese Modewahl wurde oft - und völlig zu Recht - als Ausdruck der Treue zum Reich verstanden. Während einige modische Einflüsse vorübergehender Natur waren und an aktuelle politische Situationen, Allianzen oder Ereignisse gebunden blieben, waren andere tief verwurzelt und von langer Dauer.*2
 
-<img src='img/karlbild.png' class='noresize'>
+<img src='img/kaiserkarl.jpg' class='noresize'>
 
 [Christoph Amberger, *Kaiser Karl V.*, 1530 - 1540](https://recherche.smb.museum/detail/862321/kaiser-karl-v--1500-1558?language=de&question=amberger&limit=15&sort=relevance&controls=none&objIdx=2)
 
